@@ -5,7 +5,7 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Hosue - Single Property HTML Template</title>
+     <title>Shriji Estates Home Page</title>
 
      <!--=====FAB ICON=======-->
     <link rel="shortcut icon" href="assets/img/logo/fav-logo3.png" type="image/x-icon">
@@ -45,189 +45,57 @@
       <?php include 'header.php'; ?>
   <!--=====HEADER END =======-->
 
-  <!--===== MOBILE HEADER STARTS =======-->
-  <div class="mobile-header mobile-haeder3 d-block d-lg-none">
-    <div class="container-fluid">
-      <div class="col-12">
-        <div class="mobile-header-elements">
-          <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo/logo3.png" alt=""></a>
-          </div>
-          <div class="mobile-nav-icon dots-menu">
-            <i class="fa-solid fa-bars"></i>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="mobile-sidebar mobile-sidebar3">
-    <div class="logosicon-area">
-      <div class="logos">
-        <img src="assets/img/logo/logo3.png" alt="">
-      </div>
-      <div class="menu-close">
-        <i class="fa-solid fa-xmark"></i>
-      </div>
-     </div>
-    <div class="mobile-nav mobile-nav1">
-      <ul class="mobile-nav-list nav-list1">
-        <li><a href="#" >Home </a>
-          <ul class="sub-menu">
-            <li>
-              <a href="#">Multiple Page</a>
-              <ul class="sub-menu">
-                <li><a href="index.html">Home One</a></li>
-                <li><a href="index2.html">Home Two</a></li>
-                <li><a href="index3.html">Home Three</a></li>
-                <li><a href="index4.html">Home Four</a></li>
-                <li><a href="index5.html">Home Five</a></li>
-                <li><a href="index6.html">Home Six</a></li>
-                <li><a href="index7.html">Home Seven</a></li>
-                <li><a href="index8.html">Home Eight</a></li>
-                <li><a href="index9.html">Home Nine</a></li>
-                <li><a href="index10.html">Home Ten</a></li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">Landing Page</a>
-              <ul class="sub-menu">
-                <li><a href="single-index1.html" target="_blank">Home One</a></li>
-                <li><a href="single-index2.html" target="_blank">Home Two</a></li>
-                <li><a href="single-index3.html" target="_blank">Home Three</a></li>
-                <li><a href="single-index4.html" target="_blank">Home Four</a></li>
-                <li><a href="single-index5.html" target="_blank">Home Five</a></li>
-                <li><a href="single-index6.html" target="_blank">Home Six</a></li>
-                <li><a href="single-index7.html" target="_blank">Home Seven</a></li>
-                <li><a href="single-index8.html" target="_blank">Home Eight</a></li>
-                <li><a href="single-index9.html" target="_blank">Home Nine</a></li>
-                <li><a href="single-index10.html" target="_blank">Home Ten</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="#">Apartment</a>
-          <ul class="sub-menu">
-            <li><a href="apartment-v1.html">Apartment V1</a></li>
-            <li><a href="apartment-v2.html">Apartment V2</a></li>
-            <li><a href="apartment-v3.html">Apartment V3</a></li>
-            <li><a href="apartment-v4.html">Apartment V4</a></li>
-            <li><a href="apartment-v5.html">Apartment V5</a></li>
-            <li><a href="apartment-v6.html">Apartment V6</a></li>
-            <li><a href="apartment-left.html">Details Left</a></li>
-            <li><a href="apartment-right.html">Details Right</a></li>
-            <li><a href="apartment-single.html">Details Single</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Blogs</a>
-          <ul class="sub-menu">
-            <li><a href="blog.html">Blog One</a></li>
-            <li><a href="blog-left.html">Blog Left</a></li>
-            <li><a href="blog-right.html">Blog Right</a></li>
-            <li><a href="blog-single.html">Blog Single</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Pages</a>
-          <ul class="sub-menu">
-            <li><a href="gallery-v1.html">Gallery V1</a></li>
-            <li><a href="gallery-v2.html">Gallery V2</a></li>
-            <li><a href="testimonial.html">Testimonials</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-          </ul>
-        </li>
-        <li><a href="contact.html">Contact Us</a></li>
-      </ul>
-  
-      <div class="allmobilesection">
-        <a href="contact.html"  class="header-btn3">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
-        <div class="single-footer">
-          <h3>Contact Info</h3>
-          <div class="footer1-contact-info">
-            <div class="contact-info-single">
-              <div class="contact-info-icon">
-                <i class="fa-solid fa-phone-volume"></i>
-              </div>
-              <div class="contact-info-text">
-                <a href="tel:+3(924)4596512">+3(924)4596512</a>
-              </div>
-            </div>
-  
-            <div class="contact-info-single">
-              <div class="contact-info-icon">
-                <i class="fa-solid fa-envelope"></i>
-              </div>
-              <div class="contact-info-text">
-                <a href="mailto:info@example.com">info@example.com</a>
-              </div>
-            </div>
-  
-            <div class="single-footer">
-              <h3>Our Location</h3>
-              
-              <div class="contact-info-single">
-                <div class="contact-info-icon">
-                  <i class="fa-solid fa-location-dot"></i>
-                </div>
-                <div class="contact-info-text">
-                  <a href="mailto:info@example.com" >55 East Birchwood Ave.Brooklyn, <br> New York 11201,United States</a>
-                </div>
-              </div>
-  
-            </div>
-            <div class="single-footer">
-              <h3>Social Links</h3>
-              
-              <div class="social-links-mobile-menu">
-                <ul>
-                  <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                  <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                  <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                  <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
-  </div>
-<!--===== MOBILE HEADER STARTS =======-->
 
 <!--===== HERO AREA STARTS =======-->
 <div class="header-carousel-area3 owl-carousel">
+
+  <!-- Slide 1 -->
   <div class="main-hero-area">
     <div class="img1">
       <img src="assets/img/all-images/hero/hero-img6.png" alt="">
     </div>
     <div class="bg-elements">
-        <img src="assets/img/elements/elements7.png" alt="" class="elements2">
+      <img src="assets/img/elements/elements7.png" alt="" class="elements2">
     </div>
+
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-md-9">
           <div class="header-content-area header-heading">
             <div class="elements">
-                <img src="assets/img/elements/elements3.png" alt="">
+              <img src="assets/img/elements/elements3.png" alt="">
             </div>
+
             <div class="header-heading2">
-                <h5><i class="fa-solid fa-location-dot"></i>538 Joanie Fort Apt. 933 Louisiana</h5>
-           <div class="space20"></div>
-            <h2>Welcome to Your Luxurious Haven</h2>
-            <div class="space20"></div>
-            <p>Our exclusive property offers a seamless blend of luxury to and comfort, designed to meet your every need. From the</p>
-            <div class="space32"></div>
-            <div class="btn-area1">
-              <a href="contact.html" class="header-btn3">Schedule A Visit</a>
-              <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube">
-                <span class="play-btn"><i class="fa-solid fa-play"></i></span>
-                <span class="text">Video</span>
-              </a>
-            </div>
+              <h5>
+                <i class="fa-solid fa-location-dot"></i>
+                Karol Bagh & Rajinder Nagar, Delhi
+              </h5>
+
+              <div class="space20"></div>
+
+              <h2>Trusted Real Estate Solutions</h2>
+
+              <div class="space20"></div>
+
+              <p>
+                SHRIJI ESTATES provides reliable property services including
+                sale, purchase, rent, construction, and bank auction properties
+                for residential and commercial needs.
+              </p>
+
+              <div class="space32"></div>
+
+              <div class="btn-area1">
+                <a href="contact.html" class="header-btn3">Contact Us</a>
+              </div>
+
             </div>
           </div>
         </div>
+
         <div class="col-lg-2"></div>
+
         <div class="col-lg-4">
           <div class="auhtor-box">
             <div class="others-box">
@@ -235,49 +103,64 @@
                 <img src="assets/img/all-images/others/others-img1.png" alt="">
               </div>
               <div class="text">
-                <h3>Luxury Suite Villa</h3>
+                <h3>Residential & Commercial</h3>
                 <div class="space10"></div>
-                <p>$1.800,000</p>
+                <p>Property Experts</p>
               </div>
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>
 
+  <!-- Slide 2 -->
   <div class="main-hero-area">
     <div class="img1">
       <img src="assets/img/all-images/hero/hero-img5.png" alt="">
     </div>
     <div class="bg-elements">
-        <img src="assets/img/elements/elements7.png" alt="" class="elements2">
+      <img src="assets/img/elements/elements7.png" alt="" class="elements2">
     </div>
+
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-md-9">
-            <div class="header-content-area header-heading">
-                <div class="elements">
-                    <img src="assets/img/elements/elements3.png" alt="">
-                </div>
-                <div class="header-heading2">
-                    <h5><i class="fa-solid fa-location-dot"></i>538 Joanie Fort Apt. 933 Louisiana</h5>
-               <div class="space20"></div>
-                <h2>Welcome to Your Luxurious Haven</h2>
-                <div class="space20"></div>
-                <p>Our exclusive property offers a seamless blend of luxury to and comfort, designed to meet your every need. From the</p>
-                <div class="space32"></div>
-                <div class="btn-area1">
-                  <a href="contact.html" class="header-btn3">Schedule A Visit</a>
-                  <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube">
-                    <span class="play-btn"><i class="fa-solid fa-play"></i></span>
-                    <span class="text">Video</span>
-                  </a>
-                </div>
-                </div>
+          <div class="header-content-area header-heading">
+            <div class="elements">
+              <img src="assets/img/elements/elements3.png" alt="">
+            </div>
+
+            <div class="header-heading2">
+              <h5>
+                <i class="fa-solid fa-location-dot"></i>
+                Main Saraswati Marg, Karol Bagh
+              </h5>
+
+              <div class="space20"></div>
+
+              <h2>Buy • Sell • Rent with Confidence</h2>
+
+              <div class="space20"></div>
+
+              <p>
+                Led by Mukund Sharma and Kishan Sharma, SHRIJI ESTATES ensures
+                transparent deals, local expertise, and complete documentation support.
+              </p>
+
+              <div class="space32"></div>
+
+              <div class="btn-area1">
+                <a href="contact.html" class="header-btn3">Get Consultation</a>
               </div>
+
+            </div>
+          </div>
         </div>
+
         <div class="col-lg-2"></div>
+
         <div class="col-lg-4">
           <div class="auhtor-box">
             <div class="others-box">
@@ -285,49 +168,64 @@
                 <img src="assets/img/all-images/others/others-img1.png" alt="">
               </div>
               <div class="text">
-                <h3>Luxury Suite Villa</h3>
+                <h3>Bank Auction Properties</h3>
                 <div class="space10"></div>
-                <p>$1.800,000</p>
+                <p>Verified Listings</p>
               </div>
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>
 
+  <!-- Slide 3 -->
   <div class="main-hero-area">
     <div class="img1">
       <img src="assets/img/all-images/hero/hero-img1.png" alt="">
     </div>
     <div class="bg-elements">
-        <img src="assets/img/elements/elements7.png" alt="" class="elements2">
+      <img src="assets/img/elements/elements7.png" alt="" class="elements2">
     </div>
+
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-md-9">
-            <div class="header-content-area header-heading">
-                <div class="elements">
-                    <img src="assets/img/elements/elements3.png" alt="">
-                </div>
-                <div class="header-heading2">
-                <h5><i class="fa-solid fa-location-dot"></i>538 Joanie Fort Apt. 933 Louisiana</h5>
-               <div class="space20"></div>
-                <h2>Welcome to Your Luxurious Haven</h2>
-                <div class="space20"></div>
-                <p>Our exclusive property offers a seamless blend of luxury to and comfort, designed to meet your every need. From the</p>
-                <div class="space32"></div>
-                <div class="btn-area1">
-                  <a href="contact.html" class="header-btn3">Schedule A Visit</a>
-                  <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube">
-                    <span class="play-btn"><i class="fa-solid fa-play"></i></span>
-                    <span class="text">Video</span>
-                  </a>
-                </div>
-                </div>
+          <div class="header-content-area header-heading">
+            <div class="elements">
+              <img src="assets/img/elements/elements3.png" alt="">
+            </div>
+
+            <div class="header-heading2">
+              <h5>
+                <i class="fa-solid fa-location-dot"></i>
+                Delhi NCR Real Estate Experts
+              </h5>
+
+              <div class="space20"></div>
+
+              <h2>Your Property, Our Priority</h2>
+
+              <div class="space20"></div>
+
+              <p>
+                Whether residential or commercial, SHRIJI ESTATES delivers
+                personalized property solutions backed by trust and experience.
+              </p>
+
+              <div class="space32"></div>
+
+              <div class="btn-area1">
+                <a href="contact.html" class="header-btn3">Enquire Now</a>
               </div>
+
+            </div>
+          </div>
         </div>
+
         <div class="col-lg-2"></div>
+
         <div class="col-lg-4">
           <div class="auhtor-box">
             <div class="others-box">
@@ -335,23 +233,27 @@
                 <img src="assets/img/all-images/others/others-img1.png" alt="">
               </div>
               <div class="text">
-                <h3>Luxury Suite Villa</h3>
+                <h3>SHRIJI ESTATES</h3>
                 <div class="space10"></div>
-                <p>$1.800,000</p>
+                <p>Since Trust Matters</p>
               </div>
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>
+
 </div>
+
 <!--===== HERO AREA ENDS =======-->
 
 <!--===== PROPERTY AREA STARTS =======-->
 <div class="property3-section-area sp6">
     <div class="container">
         <div class="row align-items-center">
+            
             <div class="col-lg-6">
                 <div class="property-images-area">
                     <div class="img1 reveal image-anime">
@@ -365,40 +267,77 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-lg-1"></div>
+
             <div class="col-lg-5">
                 <div class="property-content heading3">
-                    <h5 data-aos="fade-left" data-aos-duration="800">Property Overview</h5>
+                    
+                    <h5 data-aos="fade-left" data-aos-duration="800">
+                        Property Overview
+                    </h5>
+
                     <div class="space20"></div>
-                    <h2 class="text-anime-style-3">Elegance Every Detail Welcome Suite Villa</h2>
+
+                    <h2 class="text-anime-style-3">
+                        Complete Real Estate Solutions You Can Trust
+                    </h2>
+
                     <div class="space16"></div>
-                    <p data-aos="fade-left" data-aos-duration="900">Experience the pinnacle of luxury living at our exclusive property, where every detail has been meticulously crafted to provide an unparalleled retreat. Nestled in the heart of, this haven offers.</p>
+
+                    <p data-aos="fade-left" data-aos-duration="900">
+                        SHRIJI ESTATES offers professional real estate services for
+                        residential and commercial properties in Karol Bagh and
+                        Rajinder Nagar. We assist our clients in buying, selling,
+                        renting, and investing with complete transparency.
+                    </p>
+
                     <div class="space16"></div>
-                    <p data-aos="fade-left" data-aos-duration="1000">Discover the essence of luxury  our exclusive property in Dallas, where timeless elegance and modern best comfort converge.</p>
+
+                    <p data-aos="fade-left" data-aos-duration="1000">
+                        Led by Mukund Sharma and Kishan Sharma, our firm is known
+                        for market expertise, verified listings, bank auction
+                        properties, and end-to-end documentation support.
+                    </p>
+
                     <div class="space32"></div>
+
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="apartment-v1.html" class="header-btn4">View Our Property</a>
+                        <a href="apartment-v1.html" class="header-btn4">
+                            Explore Our Properties
+                        </a>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </div>
 </div>
+
 <!--===== PROPERTY AREA ENDS =======-->
   
 <!--===== SERVICE AREA STARTS =======-->
 <div class="service3-section-area sp1">
   <div class="container">
+    
     <div class="row">
       <div class="col-lg-6 m-auto">
         <div class="heading3 text-center space-margin60">
-          <h5 data-aos="fade-left" data-aos-duration="800">Villa amenities</h5>
+          <h5 data-aos="fade-left" data-aos-duration="800">
+            Our Services
+          </h5>
           <div class="space20"></div>
-          <h2 class="text-anime-style-3">Our Property Amenities</h2>
+          <h2 class="text-anime-style-3">
+            Complete Real Estate Solutions
+          </h2>
         </div>
       </div>
     </div>
+
     <div class="row">
+
+      <!-- Service 1 -->
       <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
         <div class="amenities-boxarea">
           <div class="img1">
@@ -406,14 +345,18 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartment-single.html">New Construction</a>
+            <a href="apartment-single.html">Sale & Purchase</a>
             <div class="space18"></div>
-            <p>Discover the epitome of luxury living at Luxury, every detail .</p>
+            <p>
+              Expert assistance for buying and selling residential and
+              commercial properties with transparent documentation.
+            </p>
             <h3>01</h3>
           </div>
         </div>
       </div>
 
+      <!-- Service 2 -->
       <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
         <div class="space40 d-lg-block d-none"></div>
         <div class="amenities-boxarea">
@@ -422,14 +365,18 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartment-single.html">Swimming Pool</a>
+            <a href="apartment-single.html">Rent & Leasing</a>
             <div class="space18"></div>
-            <p>Explore our meticulously best <br class="d-lg-block d-block"> designed spaces and indulge.</p>
+            <p>
+              Find reliable tenants or rental properties with complete
+              support for agreements and verification.
+            </p>
             <h3>02</h3>
           </div>
         </div>
       </div>
 
+      <!-- Service 3 -->
       <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1100">
         <div class="amenities-boxarea">
           <div class="img1">
@@ -437,14 +384,18 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartment-single.html">Fitness Facilities</a>
+            <a href="apartment-single.html">Bank Auction Properties</a>
             <div class="space18"></div>
-            <p>Uncover the essence of luxury <br class="d-lg-block d-block"> as you explore our exclusive.</p>
+            <p>
+              Verified bank auction property listings with complete legal
+              guidance and investment support.
+            </p>
             <h3>03</h3>
           </div>
         </div>
       </div>
 
+      <!-- Service 4 -->
       <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
         <div class="space40 d-lg-block d-none"></div>
         <div class="amenities-boxarea">
@@ -453,17 +404,22 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartment-single.html">Eco Construction</a>
+            <a href="apartment-single.html">Construction & Consulting</a>
             <div class="space18"></div>
-            <p>Step into sophistication and <br class="d-lg-block d-block"> serenity at new construction.</p>
+            <p>
+              Professional construction assistance and real estate consulting
+              tailored to your budget and goals.
+            </p>
             <h3>04</h3>
           </div>
         </div>
       </div>
+
     </div>
   </div>
 </div>
 <!--===== SERVICE AREA ENDS =======-->
+
 
 <!--===== ABOUT AREA STARTS =======-->
 <div class="about3-section-area sp6">
@@ -597,32 +553,60 @@
 <div class="testimonial3-section-area sp6">
     <div class="container">
         <div class="row">
+
+            <!-- Left Content -->
             <div class="col-lg-5">
                 <div class="testimonia-header heading3">
-                    <h5 data-aos="fade-left" data-aos-duration="800">client feedback</h5>
+                    <h5 data-aos="fade-left" data-aos-duration="800">
+                        Client Feedback
+                    </h5>
+
                     <div class="space20"></div>
-                    <h2 class="text-anime-style-3">Hear What Our Client Say About Property</h2>
+
+                    <h2 class="text-anime-style-3">
+                        What Our Clients Say About Shriji Estates
+                    </h2>
+
                     <div class="space16"></div>
-                    <p data-aos="fade-left" data-aos-duration="1000">Indulge in the epitome of luxury living at Luxury, where every <br class="d-lg-block d-none"> amenity is meticulously designed to elevate your lifestyle.</p>
+
+                    <p data-aos="fade-left" data-aos-duration="1000">
+                        Our clients trust SHRIJI ESTATES for transparent deals,
+                        verified properties, and professional guidance across
+                        residential and commercial real estate.
+                    </p>
+
                     <div class="space32"></div>
+
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="testimonial.html" class="header-btn4">View All Testimonials</a>
+                        <a href="testimonial.html" class="header-btn4">
+                            View All Testimonials
+                        </a>
                     </div>
                 </div>
+
                 <div class="space86"></div>
+
+                <!-- Video Area -->
                 <div class="testimonial-video-area" data-aos="zoom-in-up" data-aos-duration="1000">
                     <div class="img1">
                         <img src="assets/img/all-images/testimonial/testimonial-img3.png" alt="">
                     </div>
                     <div class="icons">
-                        <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><i class="fa-solid fa-play"></i></a>
+                        <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube">
+                            <i class="fa-solid fa-play"></i>
+                        </a>
                     </div>
                 </div>
             </div>
+
             <div class="col-lg-1"></div>
+
+            <!-- Right Slider -->
             <div class="col-lg-6">
                 <div class="testimonial-arrow-area" data-aos="zoom-in-up" data-aos-duration="1000">
                     <div class="testimonial3-vertical-slider">
+
+                        <!-- Testimonial 1 -->
                         <div class="testimonial-vertical">
                             <div class="verical-boxarea">
                                 <div class="images-area">
@@ -630,19 +614,29 @@
                                         <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
                                     </div>
                                     <div class="text">
-                                        <a href="#">Alexy Queen</a>
-                                        <p>Happy Client</p>
+                                        <a href="#">Rahul Mehta</a>
+                                        <p>Property Buyer</p>
                                     </div>
                                 </div>
                                 <div class="quito">
                                     <img src="assets/img/icons/quoto-icon2.svg" alt="">
                                 </div>
                             </div>
+
                             <div class="space24"></div>
-                            <span>Highly recommend Suite Luxury Suite Villa!</span>
+
+                            <span>Trusted & Professional Service</span>
+
                             <div class="space16"></div>
-                            <p>“After staying at Luxury, I can confidently say it was one of the most luxurious best experiences of luxury villa.” </p>
-                           <div class="space24"></div>
+
+                            <p>
+                                “SHRIJI ESTATES helped me purchase a residential
+                                property in Karol Bagh with complete transparency.
+                                The process was smooth and well-managed.”
+                            </p>
+
+                            <div class="space24"></div>
+
                             <ul>
                                 <li><i class="fa-solid fa-star"></i></li>
                                 <li><i class="fa-solid fa-star"></i></li>
@@ -651,6 +645,8 @@
                                 <li><i class="fa-solid fa-star"></i></li>
                             </ul>
                         </div>
+
+                        <!-- Testimonial 2 -->
                         <div class="testimonial-vertical">
                             <div class="verical-boxarea">
                                 <div class="images-area">
@@ -658,19 +654,29 @@
                                         <img src="assets/img/all-images/testimonial/testimonial-img5.png" alt="">
                                     </div>
                                     <div class="text">
-                                        <a href="#">Jofra Archer</a>
-                                        <p>Happy Client</p>
+                                        <a href="#">Neha Kapoor</a>
+                                        <p>Tenant</p>
                                     </div>
                                 </div>
                                 <div class="quito">
                                     <img src="assets/img/icons/quoto-icon2.svg" alt="">
                                 </div>
                             </div>
+
                             <div class="space24"></div>
-                            <span>Unforgettable Experience Of Luxury & Comfort!</span>
+
+                            <span>Highly Reliable Real Estate Firm</span>
+
                             <div class="space16"></div>
-                            <p>"Celebrated my anniversary at Property Villa, and it was beyond magical. The attention to detail, the of serene.”</p>
-                           <div class="space24"></div>
+
+                            <p>
+                                “I found a rental property in Rajinder Nagar
+                                through Shriji Estates. Everything from site visit
+                                to agreement was handled professionally.”
+                            </p>
+
+                            <div class="space24"></div>
+
                             <ul>
                                 <li><i class="fa-solid fa-star"></i></li>
                                 <li><i class="fa-solid fa-star"></i></li>
@@ -679,6 +685,8 @@
                                 <li><i class="fa-solid fa-star"></i></li>
                             </ul>
                         </div>
+
+                        <!-- Testimonial 3 -->
                         <div class="testimonial-vertical">
                             <div class="verical-boxarea">
                                 <div class="images-area">
@@ -686,19 +694,29 @@
                                         <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
                                     </div>
                                     <div class="text">
-                                        <a href="#">Alexy Queen</a>
-                                        <p>Happy Client</p>
+                                        <a href="#">Amit Verma</a>
+                                        <p>Investor</p>
                                     </div>
                                 </div>
                                 <div class="quito">
                                     <img src="assets/img/icons/quoto-icon2.svg" alt="">
                                 </div>
                             </div>
+
                             <div class="space24"></div>
-                            <span>Highly recommend Suite Luxury Suite Villa!</span>
+
+                            <span>Best for Bank Auction Properties</span>
+
                             <div class="space16"></div>
-                            <p>“After staying at Luxury, I can confidently say it was one of the most luxurious best experiences of luxury villa.” </p>
-                           <div class="space24"></div>
+
+                            <p>
+                                “Their guidance on bank auction properties was
+                                excellent. Legal clarity and honest advice made
+                                my investment decision easy.”
+                            </p>
+
+                            <div class="space24"></div>
+
                             <ul>
                                 <li><i class="fa-solid fa-star"></i></li>
                                 <li><i class="fa-solid fa-star"></i></li>
@@ -707,159 +725,108 @@
                                 <li><i class="fa-solid fa-star"></i></li>
                             </ul>
                         </div>
-                        <div class="testimonial-vertical">
-                            <div class="verical-boxarea">
-                                <div class="images-area">
-                                    <div class="img1">
-                                        <img src="assets/img/all-images/testimonial/testimonial-img5.png" alt="">
-                                    </div>
-                                    <div class="text">
-                                        <a href="#">Jofra Archer</a>
-                                        <p>Happy Client</p>
-                                    </div>
-                                </div>
-                                <div class="quito">
-                                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
-                                </div>
-                            </div>
-                            <div class="space24"></div>
-                            <span>Unforgettable Experience Of Luxury & Comfort!</span>
-                            <div class="space16"></div>
-                            <p>"Celebrated my anniversary at Property Villa, and it was beyond magical. The attention to detail, the of serene.”</p>
-                           <div class="space24"></div>
-                            <ul>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-vertical">
-                            <div class="verical-boxarea">
-                                <div class="images-area">
-                                    <div class="img1">
-                                        <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
-                                    </div>
-                                    <div class="text">
-                                        <a href="#">Alexy Queen</a>
-                                        <p>Happy Client</p>
-                                    </div>
-                                </div>
-                                <div class="quito">
-                                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
-                                </div>
-                            </div>
-                            <div class="space24"></div>
-                            <span>Highly recommend Suite Luxury Suite Villa!</span>
-                            <div class="space16"></div>
-                            <p>“After staying at Luxury, I can confidently say it was one of the most luxurious best experiences of luxury villa.” </p>
-                           <div class="space24"></div>
-                            <ul>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-vertical">
-                            <div class="verical-boxarea">
-                                <div class="images-area">
-                                    <div class="img1">
-                                        <img src="assets/img/all-images/testimonial/testimonial-img5.png" alt="">
-                                    </div>
-                                    <div class="text">
-                                        <a href="#">Jofra Archer</a>
-                                        <p>Happy Client</p>
-                                    </div>
-                                </div>
-                                <div class="quito">
-                                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
-                                </div>
-                            </div>
-                            <div class="space24"></div>
-                            <span>Unforgettable Experience Of Luxury & Comfort!</span>
-                            <div class="space16"></div>
-                            <p>"Celebrated my anniversary at Property Villa, and it was beyond magical. The attention to detail, the of serene.”</p>
-                           <div class="space24"></div>
-                            <ul>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
+
                     </div>
+
+                    <!-- Arrows -->
                     <div class="testimonial-arrows">
                         <div class="testimonial-prev-arrow">
-                          <button><i class="fa-solid fa-angle-up"></i></button>
+                            <button><i class="fa-solid fa-angle-up"></i></button>
                         </div>
                         <div class="testimonial-next-arrow">
-                          <button><i class="fa-solid fa-angle-down"></i></button>
+                            <button><i class="fa-solid fa-angle-down"></i></button>
                         </div>
-                      </div>
+                    </div>
+
                 </div>
             </div>
+
         </div>
     </div>
 </div>
+
 <!--===== TESTIMONIAL AREA ENDS =======-->
 
 <!--===== OTHERS AREA STARTS =======-->
 <div class="others3-section-area sp5">
     <div class="container">
         <div class="row align-items-center">
+
             <div class="col-lg-5">
                 <div class="images-area">
                     <div class="img1 image-anime reveal">
-                       <img src="assets/img/all-images/others/others-img11.png" alt="">
+                        <img src="assets/img/all-images/others/others-img11.png" alt="">
                     </div>
                     <div class="img2 image-anime reveal">
                         <img src="assets/img/all-images/others/others-img12.png" alt="">
-                     </div>
-                     <div class="elements">
+                    </div>
+                    <div class="elements">
                         <img src="assets/img/elements/elements8.png" alt="">
-                     </div>
+                    </div>
                 </div>
             </div>
+
             <div class="col-lg-1"></div>
+
             <div class="col-lg-5">
                 <div class="others-header heading3">
-                    <h5 data-aos="fade-left" data-aos-duration="800">schedule a tour</h5>
+
+                    <h5 data-aos="fade-left" data-aos-duration="800">
+                        Schedule a Visit
+                    </h5>
+
                     <div class="space20"></div>
-                    <h2 class="text-anime-style-3">Home Waiting For You Here Schedule A Tour</h2>
+
+                    <h2 class="text-anime-style-3">
+                        Find the Right Property with Shriji Estates
+                    </h2>
+
                     <div class="space16"></div>
-                    <p data-aos="fade-left" data-aos-duration="1000">Indulge in the epitome of luxury living at Luxury, where every amenity is meticulously designed to elevate your lifestyle.</p>
+
+                    <p data-aos="fade-left" data-aos-duration="1000">
+                        Whether you are looking to buy, sell, or rent a residential
+                        or commercial property, SHRIJI ESTATES provides expert
+                        guidance, verified listings, and complete transaction support.
+                    </p>
+
                     <div class="space24"></div>
+
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="contact.html" class="header-btn3">Schedule A Visit</a>
-                        <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube">
-                          <span class="play-btn"><i class="fa-solid fa-play"></i></span>
-                          <span class="text">Video</span>
+                        <a href="contact.html" class="header-btn3">
+                            Book a Site Visit
                         </a>
-                      </div>
+                    </div>
+
                 </div>
             </div>
+
         </div>
     </div>
 </div>
 <!--===== OTHERS AREA ENDS =======-->
 
+
 <!--===== BLOG AREA STARTS =======-->
 <div class="blog3-section-area sp7">
   <div class="container">
+
     <div class="row">
       <div class="col-lg-5 m-auto">
         <div class="blog-header text-center heading3 space-margin60">
-          <h5 data-aos="fade-left" data-aos-duration="800">Our Blog</h5>
+          <h5 data-aos="fade-left" data-aos-duration="800">
+            Our Blog
+          </h5>
           <div class="space20"></div>
-          <h2 class="text-anime-style-3">Our News & Articles</h2>
+          <h2 class="text-anime-style-3">
+            Real Estate News & Insights
+          </h2>
         </div>
       </div>
     </div>
+
     <div class="row">
+
+      <!-- Blog 1 -->
       <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
         <div class="blog-boxarea">
           <div class="img1 image-anime">
@@ -867,17 +834,31 @@
           </div>
           <div class="content-area">
             <ul>
-              <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
-              <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
+              <li>
+                <a href="#"><img src="assets/img/icons/user.svg" alt=""> Shriji Estates</a>
+                <span> | </span>
+              </li>
+              <li>
+                <a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a>
+              </li>
             </ul>
+
             <div class="space20"></div>
-            <a href="blog-single.html">How Luxury Suite Offers the Perfect Blend the Comfort</a>
+
+            <a href="blog-single.html">
+              Buying vs Renting: What Works Best in Karol Bagh?
+            </a>
+
             <div class="space24"></div>
-            <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+
+            <a href="blog-single.html" class="readmore">
+              Read More <i class="fa-solid fa-arrow-right"></i>
+            </a>
           </div>
         </div>
       </div>
 
+      <!-- Blog 2 -->
       <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
         <div class="blog-boxarea">
           <div class="img1 image-anime">
@@ -885,17 +866,31 @@
           </div>
           <div class="content-area">
             <ul>
-              <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
-              <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
+              <li>
+                <a href="#"><img src="assets/img/icons/user.svg" alt=""> Shriji Estates</a>
+                <span> | </span>
+              </li>
+              <li>
+                <a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a>
+              </li>
             </ul>
+
             <div class="space20"></div>
-            <a href="blog-single.html">Guest Spotlight: Memorable Moments at Luxury Suite Villa</a>
+
+            <a href="blog-single.html">
+              Guide to Bank Auction Properties in Delhi
+            </a>
+
             <div class="space24"></div>
-            <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+
+            <a href="blog-single.html" class="readmore">
+              Read More <i class="fa-solid fa-arrow-right"></i>
+            </a>
           </div>
         </div>
       </div>
 
+      <!-- Blog 3 -->
       <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
         <div class="blog-boxarea">
           <div class="img1 image-anime">
@@ -903,19 +898,34 @@
           </div>
           <div class="content-area">
             <ul>
-              <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
-              <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
+              <li>
+                <a href="#"><img src="assets/img/icons/user.svg" alt=""> Shriji Estates</a>
+                <span> | </span>
+              </li>
+              <li>
+                <a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a>
+              </li>
             </ul>
+
             <div class="space20"></div>
-            <a href="blog-single.html">Behind the Scenes: The Art of Creating Luxury Suite Villa</a>
+
+            <a href="blog-single.html">
+              Top Investment Locations in Rajinder Nagar
+            </a>
+
             <div class="space24"></div>
-            <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+
+            <a href="blog-single.html" class="readmore">
+              Read More <i class="fa-solid fa-arrow-right"></i>
+            </a>
           </div>
         </div>
       </div>
+
     </div>
   </div>
 </div>
+
 <!--===== BLOG AREA ENDS =======-->
 
 <!--===== FOOTER AREA STARTS =======-->

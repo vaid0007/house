@@ -9,64 +9,19 @@
               </div>
               <div class="main-menu">
                 <ul>
-                  <li><a href="index.php">Home <i class="fa-solid"></i></a>
+                  <li><a href="index.php">Home</a>
                   </li>
                   <li><a href="about.php">About Us</a></li>
-                  <li><a href="#">Apartment <i class="fa-solid fa-angle-down"></i></a>
-                    <ul class="dropdown-padding">
-                        <li class="menu-small"><a href="#">Our  Apartment <i class="fa-solid fa-angle-right"></i></a>
-                          <ul class="small-menu">
-                            <li><a href="apartment-v1.html">Apartment V1</a></li>
-                            <li><a href="apartment-v2.html">Apartment V2</a></li>
-                            <li><a href="apartment-v3.html">Apartment V3</a></li>
-                            <li><a href="apartment-v4.html">Apartment V4</a></li>
-                            <li><a href="apartment-v5.html">Apartment V5</a></li>
-                            <li><a href="apartment-v6.html">Apartment V6</a></li>
-                          </ul>
-                        </li>
-                      <li class="menu-small"><a href="service2.html">Single Apartment <i class="fa-solid fa-angle-right"></i></a>
-                        <ul class="small-menu">
-                          <li><a href="apartment-left.html">Details Left</a></li>
-                          <li><a href="apartment-right.html">Details Right</a></li>
-                          <li><a href="apartment-single.html">Details Single</a></li>
-                        </ul>
-                      </li>
-                    </ul>
+                  <li><a href="apartments.php">Apartment</a>
                   </li>
-                  <li><a href="#">Blogs <i class="fa-solid fa-angle-down"></i></a>
-                  <ul class="dropdown-padding">
-                    <li><a href="blog.html">Our Blog</a></li>
-                    <li class="menu-small"><a href="#">Single Blog <i class="fa-solid fa-angle-right"></i></a>
-                      <ul class="small-menu">
-                        <li><a href="blog-left.html">Blog Left</a></li>
-                        <li><a href="blog-right.html">Blog Right</a></li>
-                        <li><a href="blog-single.html">Blog Single</a></li>
-                      </ul>
-                    </li>
-                  </ul>
+                  <li><a href="blog.php">Blog</a>
+                  <li><a href="gallery.php">Gallery</a>
                   </li>
-                  <li><a href="gallery-v1.php">Gallery<i class="fa-solid fa-angle-down"></i></a>
-                    <ul class="dropdown-padding">
-                      <li><a href="gallery-v1.html">Gallery V1</a></li>
-                      <li><a href="gallery-v2.html">Gallery V2</a></li>
-                      <li><a href="testimonial.html">Testimonials</a></li>
-                      <li><a href="contact.html">Contact Us</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="contact.php">Contact Us<i class="fa-solid fa-angle-down"></i></a>
-                    <ul class="dropdown-padding">
-                      <li><a href="gallery-v1.html">Gallery V1</a></li>
-                      <li><a href="gallery-v2.html">Gallery V2</a></li>
-                      <li><a href="testimonial.html">Testimonials</a></li>
-                      <li><a href=""></a></li>
-                    </ul>
+                  <li><a href="contact.php">Contact Us</a>
                   </li>
                 </ul>
               </div>
               <div class="btn-area-author">
-                <div class="search-icon header__search header-search-btn">
-                  <a href="#"><img src="assets/img/icons/search-icon1.svg" alt=""> <span></span></a>
-                </div>
                 <ul>
                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                     <li><a href="#"><i class="fa-brands fa-google-plus-g"></i></a></li>
@@ -91,3 +46,98 @@
       </div>
     </div>
   </header>
+
+
+    <!--===== MOBILE HEADER STARTS =======-->
+  <div class="mobile-header mobile-haeder3 d-block d-lg-none">
+    <div class="container-fluid">
+      <div class="col-12">
+        <div class="mobile-header-elements">
+          <div class="mobile-logo">
+            <a href="index.html"><img src="assets/img/logo/logo3.png" alt=""></a>
+          </div>
+          <div class="mobile-nav-icon dots-menu">
+            <i class="fa-solid fa-bars"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="mobile-sidebar mobile-sidebar3">
+    <div class="logosicon-area">
+      <div class="logos">
+        <img src="assets/img/logo/logo3.png" alt="">
+      </div>
+      <div class="menu-close">
+        <i class="fa-solid fa-xmark"></i>
+      </div>
+     </div>
+    <div class="mobile-nav mobile-nav1">
+      <ul class="mobile-nav-list nav-list1">
+        <li><a href="index.php" >Home </a>
+        </li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="apartments.php">Apartment</a>
+        </li>
+        <li><a href="blog.php">Blogs</a>
+        </li>
+        <li><a href="gallery.php">Gallery</a>
+        </li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+  
+      <div class="allmobilesection">
+        <a href="contact.php"  class="header-btn3">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
+        <div class="single-footer">
+          <h3>Contact Info</h3>
+          <div class="footer1-contact-info">
+            <div class="contact-info-single">
+              <div class="contact-info-icon">
+                <i class="fa-solid fa-phone-volume"></i>
+              </div>
+              <div class="contact-info-text">
+                <a href="tel:9810398406">9810398406</a>
+              </div>
+            </div>
+  
+            <div class="contact-info-single">
+              <div class="contact-info-icon">
+                <i class="fa-solid fa-envelope"></i>
+              </div>
+              <div class="contact-info-text">
+                <a href="mailto:info@example.com">Shrijiproperties@gmail.com</a>
+              </div>
+            </div>
+  
+            <div class="single-footer">
+              <h3>Our Location</h3>
+              
+              <div class="contact-info-single">
+                <div class="contact-info-icon">
+                  <i class="fa-solid fa-location-dot"></i>
+                </div>
+                <div class="contact-info-text">
+                  <a href="mailto:info@example.com" >12a/2 Karol Bagh, Main sarawati marg <br> Karol Bagh and Rajinder nagar</a>
+                </div>
+              </div>
+  
+            </div>
+            <div class="single-footer">
+              <h3>Social Links</h3>
+              
+              <div class="social-links-mobile-menu">
+                <ul>
+                  <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                  <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+       </div>
+    </div>
+  </div>
+<!--===== MOBILE HEADER STARTS =======-->
