@@ -156,7 +156,7 @@
                                 </div>
                                 <div class="content">
                                     <p>Call</p>
-                                    <a href="tel:+1234567890">+123 456 7890</a>
+                                    <a href="tel:+1234567890">9810398406</a>
                                 </div>
                             </div>
                             <div class="space20"></div>
@@ -166,7 +166,8 @@
                                 </div>
                                 <div class="content">
                                     <p>Email</p>
-                                    <a href="mailto:info@hosuevilla.com">info@hosuevilla.com</a>
+                                    <a href="mailto:info@hosuevilla.com">Shrijiproperties@gmail.com 
+</a>
                                 </div>
                             </div>
                             <div class="space20"></div>
@@ -187,23 +188,9 @@
         <div class="space80"></div>
 
         <div class="row">
-            <div class="col-lg-4">
-                <div class="contact-author-box">
-                    <div class="img1">
-                        <img src="assets/img/all-images/testimonial/testimonial-img2.png" alt="">
-                    </div>
-                    <div class="space24"></div>
-                    <p>My Name is Alexy Roy, Agent of Hosue Apartment and Villa. I will answer all your question.</p>
-                    <div class="space32"></div>
-                    <div class="btn-area1">
-                        <a href="#"><img src="assets/img/icons/whatsapp.svg" alt=""> Ask Question On WhatsApp</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-8">
+            <div class="col-lg-12">
               <div class="maps-area">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4506257.120552435!2d88.67021924228865!3d21.954385721237916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1704088968016!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-              </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14005.162150653829!2d77.18029035247469!3d28.65101811047072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0338f7d93d49%3A0xdd9c1e60386036e7!2sChauhan%20PG%20Smart%20Living!5e0!3m2!1sen!2sin!4v1765961938708!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>              </div>
             </div>
         </div>
     </div>
