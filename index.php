@@ -8,7 +8,7 @@
      <title>Shriji Estates Home Page</title>
 
      <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/fav-logo3.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/logo/fav-logo3a.png" type="image/x-icon">
 
     <!--===== CSS LINK =======-->
     <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
