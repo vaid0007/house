@@ -5,7 +5,7 @@
           <div class="col-lg-12">
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index.html"><img src="assets/img/logo/logo3.png" alt=""></a>
+                <a href="index.html"><img src="assets/img/logo/logo3a.png" alt=""></a>
               </div>
               <div class="main-menu">
                 <ul>
@@ -54,7 +54,7 @@
       <div class="col-12">
         <div class="mobile-header-elements">
           <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo/logo3.png" alt=""></a>
+            <a href="index.html"><img src="assets/img/logo/logo3a.png" alt=""></a>
           </div>
           <div class="mobile-nav-icon dots-menu">
             <i class="fa-solid fa-bars"></i>
@@ -67,7 +67,7 @@
   <div class="mobile-sidebar mobile-sidebar3">
     <div class="logosicon-area">
       <div class="logos">
-        <img src="assets/img/logo/logo3.png" alt="">
+        <img src="assets/img/logo/logo3a.png" alt="">
       </div>
       <div class="menu-close">
         <i class="fa-solid fa-xmark"></i>
@@ -118,7 +118,7 @@
                   <i class="fa-solid fa-location-dot"></i>
                 </div>
                 <div class="contact-info-text">
-                  <a href="mailto:info@example.com" >12a/2 Karol Bagh, Main sarawati marg <br> Karol Bagh and Rajinder nagar</a>
+                  <a href="mailto:info@example.com" >12/A-2 Karol Bagh, Main sarawati marg <br> Karol Bagh and Rajinder nagar</a>
                 </div>
               </div>
   

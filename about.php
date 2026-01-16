@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
+<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Shriji Estatesosue - About Us</title>
+     <title>Shriji Properties About Us</title>
 
      <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/fav-logo3.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/logo/fav-logo3a.png" type="image/x-icon">
 
     <!--===== CSS LINK =======-->
     <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
@@ -28,7 +28,7 @@
 <body class="homepage3-body">
 
 <!--===== PRELOADER STARTS =======-->
-<div class="preloader" style="background-image: url('assets/img/logo/preloader.gif');"></div>
+<div class="preloader" style="background-image: url('assets/img/logo/fav-logo3a.png');"></div>
 <!--===== PRELOADER ENDS =======-->
 
 <!--===== PROGRESS STARTS=======-->
@@ -59,12 +59,12 @@
       <div class="row">
         <div class="col-lg-5">
             <div class="inner-heading header-heading">
-                <h2>About Shriji Estates</h2>
+                <h2>About ShriJi Properties</h2>
                 <div class="space24"></div>
-                <p><a href="index.html">Home <i class="fa-solid fa-angle-right"></i></a> <a href="about.html">About Shriji Estates</a></p>
+                <p><a href="index.php">Home <i class="fa-solid fa-angle-right"></i></a> <a href="about.php">About ShriJi Properties</a></p>
             </div>
         </div>
-        <div class="col-lg-2"></div>
+        <!-- <div class="col-lg-2"></div>
         <div class="col-lg-4">
           <div class="auhtor-box">
             <div class="others-box">
@@ -75,7 +75,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
@@ -102,11 +102,11 @@
         <h5 data-aos="fade-left" data-aos-duration="800">Real Estate Consultants</h5>
         <div class="space20"></div>
 
-        <h2 class="text-anime-style-3">Hi, We Are Shriji Estates – Your Property Experts</h2>
+        <h2 class="text-anime-style-3">Hi, We Are ShriJi Properties – Your Property Experts</h2>
 
         <div class="space16"></div>
         <p data-aos="fade-left" data-aos-duration="900">
-            Hello, we are <strong>Mukund Sharma</strong> and <strong>Kishan Sharma</strong>, owners of Shriji Estates. 
+            Hello, we are <strong>Mukund Sharma</strong> and <strong>Kishan Sharma</strong>, owners of ShriJi Properties. 
             With years of experience in residential and commercial property dealing, we specialize in sale, purchase, rent, construction, and bank auction properties in Karol Bagh and Rajinder Nagar.
         </p>
 
@@ -117,7 +117,7 @@
 
         <div class="space32"></div>
         <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-            <a href="apartment-v1.html" class="header-btn4">Explore Our Listings</a>
+            <a href="apartments.php" class="header-btn3">Explore Our Listings</a>
         </div>
     </div>
 </div>
@@ -135,7 +135,7 @@
             <div class="col-lg-5">
                 <div class="about-header heading3">
 
-                    <h5 data-aos="fade-left" data-aos-duration="800">SHRIJI ESTATES</h5>
+                    <h5 data-aos="fade-left" data-aos-duration="800">ShriJi Properties</h5>
 
                     <div class="space20"></div>
 
@@ -144,7 +144,7 @@
                     <div class="space16"></div>
 
                     <p data-aos="fade-left" data-aos-duration="900">
-                        At Shriji Estates, we specialize in property <strong>Sale, Purchase, Rent, Construction, and Bank Auction Properties</strong>.  
+                        At ShriJi Properties, we specialize in property <strong>Sale, Purchase, Rent, Construction, and Bank Auction Properties</strong>.  
                         With years of expertise, we help clients find the right residential and commercial properties in 
                         <strong>Karol Bagh</strong> and <strong>Rajinder Nagar</strong>.
                     </p>
@@ -160,7 +160,7 @@
                     <div class="space32"></div>
 
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="apartment-v1.html" class="header-btn4">View Available Properties</a>
+                        <a href="apartments.php" class="header-btn3">View Available Properties</a>
                     </div>
 
                 </div>
@@ -200,17 +200,17 @@
                     <h5 data-aos="fade-left" data-aos-duration="800">Client Feedback</h5>
                     <div class="space20"></div>
 
-                    <h2 class="text-anime-style-3">What Our Clients Say About Shriji Estates</h2>
+                    <h2 class="text-anime-style-3">What Our Clients Say About ShriJi Properties</h2>
                     <div class="space16"></div>
 
                     <p data-aos="fade-left" data-aos-duration="1000">
                         We take pride in delivering transparent and trustworthy real estate services.
-                        Here's what our clients say about their experience with Shriji Estates.
+                        Here's what our clients say about their experience with ShriJi Properties.
                     </p>
 
                     <div class="space32"></div>
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="testimonial.html" class="header-btn4">View All Testimonials</a>
+                        <a href="testimonial.php" class="header-btn3">View All Testimonials</a>
                     </div>
                 </div>
 
@@ -294,7 +294,7 @@
                             <div class="space16"></div>
 
                             <p>
-                                “Shriji Estates assisted me in finding a rental home in Rajinder Nagar.
+                                “ShriJi Properties assisted me in finding a rental home in Rajinder Nagar.
                                 They understood my requirements perfectly and provided the best options.
                                 Truly a reliable real estate partner.”
                             </p>
@@ -367,7 +367,7 @@
                             <div class="space16"></div>
 
                             <p>
-                                “Shriji Estates constructed my house exactly the way I wanted.
+                                “ShriJi Properties constructed my house exactly the way I wanted.
                                 Great quality, honest pricing, and timely completion.
                                 Truly impressed with their dedication.”
                             </p>
@@ -420,7 +420,7 @@
               <img src="assets/img/all-images/apartment/apartment-img1.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartment-single.html">Apartment Complex</a>
+              <a href="apartments.php">Apartment Complex</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -429,7 +429,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartment-v1.html">View</a>
+              <a href="apartments.php">View</a>
             </div>
           </div>
         </div>
@@ -439,7 +439,7 @@
               <img src="assets/img/all-images/apartment/apartment-img2.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartment-single.html">Diamond Apartment</a>
+              <a href="apartments.php">Diamond Apartment</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -448,7 +448,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartment-v1.html">View</a>
+              <a href="apartments.php">View</a>
             </div>
           </div>
         </div>
@@ -459,7 +459,7 @@
               <img src="assets/img/all-images/apartment/apartment-img3.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartment-single.html">Luxury Suite Villa</a>
+              <a href="apartments.php">Luxury Suite Villa</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -468,7 +468,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartment-v1.html">View</a>
+              <a href="apartments.php">View</a>
             </div>
           </div>
         </div>
@@ -501,5 +501,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
+<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
 </html>

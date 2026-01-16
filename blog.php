@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:46 GMT -->
+<!-- Mirrored from unifato.com/hosue/blog.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:46 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Hosue - Single Property HTML Template</title>
+     <title>ShriJi Properties</title>
 
      <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/fav-logo3.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/logo/fav-logo3a.png" type="image/x-icon">
 
     <!--===== CSS LINK =======-->
     <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
@@ -28,7 +28,7 @@
 <body class="homepage3-body">
 
 <!--===== PRELOADER STARTS =======-->
-<div class="preloader" style="background-image: url('assets/img/logo/preloader.gif');"></div>
+<div class="preloader" style="background-image: url('assets/img/logo/fav-logo3a.png');"></div>
 <!--===== PRELOADER ENDS =======-->
 
 <!--===== PROGRESS STARTS=======-->
@@ -59,7 +59,7 @@
             <div class="inner-heading header-heading">
                 <h2>Our Blog</h2>
                 <div class="space24"></div>
-                <p><a href="index.html">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog-2.html">Our Blog</a></p>
+                <p><a href="index.php">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog.php">Our Blog</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>
@@ -72,7 +72,7 @@
               <div class="text">
                 <h3>Luxury Suite Villa</h3>
                 <div class="space10"></div>
-                <p>$1.800,000</p>
+                <p>Rs.18 Lac</p>
               </div>
             </div>
           </div>
@@ -97,9 +97,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
-              <a href="blog-single.html">How Luxury Suite Offers the Perfect Blend the Comfort</a>
+              <a href="blog.php">How Luxury Suite Offers the Perfect Blend the Comfort</a>
               <div class="space24"></div>
-              <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -115,9 +115,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
-              <a href="blog-single.html">Guest Spotlight: Memorable Moments at Luxury Suite Villa</a>
+              <a href="blog.php">Guest Spotlight: Memorable Moments at Luxury Suite Villa</a>
               <div class="space24"></div>
-              <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -133,9 +133,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
-              <a href="blog-single.html">Behind the Scenes: The Art of Creating Luxury Suite Villa</a>
+              <a href="blog.php">Behind the Scenes: The Art of Creating Luxury Suite Villa</a>
               <div class="space24"></div>
-              <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -151,9 +151,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog-single.html">Your Urban Sanctuary Awaits in the Heart of the New City</a>
+                <a href="blog.php">Your Urban Sanctuary Awaits in the Heart of the New City</a>
                 <div class="space24"></div>
-                <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -169,9 +169,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog-single.html">Discover Your Dream Home in the Heart of the City</a>
+                <a href="blog.php">Discover Your Dream Home in the Heart of the City</a>
                 <div class="space24"></div>
-                <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -187,9 +187,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog-single.html">Find Your Perfect Home at Best Diamond Apartments</a>
+                <a href="blog.php">Find Your Perfect Home at Best Diamond Apartments</a>
                 <div class="space24"></div>
-                <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -205,9 +205,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog-single.html">Experience Urban Elegance at Diamond Apartments</a>
+                <a href="blog.php">Experience Urban Elegance at Diamond Apartments</a>
                 <div class="space24"></div>
-                <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -223,9 +223,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog-single.html">Where Modern Design Meets Unmatched Convenience</a>
+                <a href="blog.php">Where Modern Design Meets Unmatched Convenience</a>
                 <div class="space24"></div>
-                <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -241,9 +241,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog-single.html">Experience Urban Luxury and Unparalleled Convenience</a>
+                <a href="blog.php">Experience Urban Luxury and Unparalleled Convenience</a>
                 <div class="space24"></div>
-                <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -299,5 +299,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:48 GMT -->
+<!-- Mirrored from unifato.com/hosue/blog.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:48 GMT -->
 </html>

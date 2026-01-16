@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/gallery-v2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:50 GMT -->
+<!-- Mirrored from unifato.com/hosue/gallery.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:50 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Hosue - Single Property HTML Template</title>
+     <title>Shriji Properties</title>
 
      <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/fav-logo3.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/logo/fav-logo3a.png" type="image/x-icon">
 
     <!--===== CSS LINK =======-->
     <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
@@ -28,7 +28,7 @@
 <body class="homepage3-body">
 
 <!--===== PRELOADER STARTS =======-->
-<div class="preloader" style="background-image: url('assets/img/logo/preloader.gif');"></div>
+<div class="preloader" style="background-image: url('assets/img/logo/fav-logo3a.png');"></div>
 <!--===== PRELOADER ENDS =======-->
 
 <!--===== PROGRESS STARTS=======-->
@@ -57,9 +57,9 @@
       <div class="row">
         <div class="col-lg-5">
             <div class="inner-heading header-heading">
-                <h2>Our Gallery V2</h2>
+                <h2>Our Gallery</h2>
                 <div class="space24"></div>
-                <p><a href="index.html">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog-2.html"> Our Gallery V2</a></p>
+                <p><a href="index.php">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog.php"> Our Gallery</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>
@@ -72,7 +72,7 @@
               <div class="text">
                 <h3>Luxury Suite Villa</h3>
                 <div class="space10"></div>
-                <p>$1.800,000</p>
+                <p>Rs.18 Lac</p>
               </div>
             </div>
           </div>
@@ -90,7 +90,7 @@
           <div class="galler-header heading3 space-margin60">
             <h5>our gallery</h5>
             <div class="space20"></div>
-            <h2>Our Gallery V2</h2>
+            <h2>Our Gallery</h2>
           </div>
         </div>
       </div>
@@ -102,7 +102,7 @@
                 <img src="assets/img/all-images/gallery/gallery-img2.png" alt="">
               </div>
               <div class="icons">
-                <a href="gallery-v1.html"><i class="fa-solid fa-plus"></i></a>
+                <a href="gallery.php"><i class="fa-solid fa-plus"></i></a>
               </div>
             </div>
   
@@ -111,7 +111,7 @@
                 <img src="assets/img/all-images/gallery/gallery-img3.png" alt="">
               </div>
               <div class="icons">
-                <a href="gallery-v1.html"><i class="fa-solid fa-plus"></i></a>
+                <a href="gallery.php"><i class="fa-solid fa-plus"></i></a>
               </div>
             </div>
   
@@ -120,7 +120,7 @@
                 <img src="assets/img/all-images/gallery/gallery-img10.png" alt="">
               </div>
               <div class="icons">
-                <a href="gallery-v1.html"><i class="fa-solid fa-plus"></i></a>
+                <a href="gallery.php"><i class="fa-solid fa-plus"></i></a>
               </div>
             </div>
             <div class="content-area">
@@ -128,7 +128,7 @@
                 <img src="assets/img/all-images/gallery/gallery-img6.png" alt="">
               </div>
               <div class="icons">
-                <a href="gallery-v1.html"><i class="fa-solid fa-plus"></i></a>
+                <a href="gallery.php"><i class="fa-solid fa-plus"></i></a>
               </div>
             </div>
           </div>
@@ -157,7 +157,7 @@
               <img src="assets/img/all-images/apartment/apartment-img1.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartment-single.html">Apartment Complex</a>
+              <a href="apartments.php">Apartment Complex</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -166,7 +166,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartment-v1.html">View</a>
+              <a href="apartments.php">View</a>
             </div>
           </div>
         </div>
@@ -177,7 +177,7 @@
               <img src="assets/img/all-images/apartment/apartment-img2.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartment-single.html">Diamond Apartment</a>
+              <a href="apartments.php">Diamond Apartment</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -186,7 +186,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartment-v1.html">View</a>
+              <a href="apartments.php">View</a>
             </div>
           </div>
         </div>
@@ -197,7 +197,7 @@
               <img src="assets/img/all-images/apartment/apartment-img3.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartment-single.html">Luxury Suite Villa</a>
+              <a href="apartments.php">Luxury Suite Villa</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -206,7 +206,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartment-v1.html">View</a>
+              <a href="apartments.php">View</a>
             </div>
           </div>
         </div>
@@ -239,5 +239,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/gallery-v2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:50 GMT -->
+<!-- Mirrored from unifato.com/hosue/gallery-v2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:50 GMT -->
 </html>

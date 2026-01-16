@@ -448,7 +448,7 @@ img {
   --ztc-text-text-7: #5E9450;
   --ztc-text-text-8: #081511;
   --ztc-text-text-9: #4E5352;
-  --ztc-text-text-10: #14453D;
+  --ztc-text-text-10: #0b2f6e;
   --ztc-text-text-11: #DEC678;
   --ztc-text-text-12: #FB8500;
   --ztc-text-text-13: #413A36;
@@ -473,7 +473,7 @@ img {
   --ztc-bg-bg-5: #070615;
   --ztc-bg-bg-6: #5E9450;
   --ztc-bg-bg-7: #081511;
-  --ztc-bg-bg-8: #14453D;
+  --ztc-bg-bg-8: #0b2f6e;
   --ztc-bg-bg-9: #DEC678;
   --ztc-bg-bg-10: #FB8500;
   --ztc-bg-bg-11: #FC4D06;
@@ -740,7 +740,7 @@ Location:
   z-index: -1;
 }
 
-.header-btn4 {
+.header-btn3 {
   color: var(--ztc-text-text-1);
   font-family: var(--ztc-family-font2);
   font-size: var(--ztc-font-size-font-s16);
@@ -755,16 +755,16 @@ Location:
   position: relative;
   z-index: 1;
 }
-.header-btn4:hover {
+.header-btn3:hover {
   transition: all 0.4s;
   color: var(--ztc-text-text-1);
 }
-.header-btn4:hover:after {
+.header-btn3:hover:after {
   width: 94%;
   transition: all 0.4s;
   border-radius: 80px;
 }
-.header-btn4::after {
+.header-btn3::after {
   position: absolute;
   content: "";
   height: 40px;
@@ -17275,7 +17275,7 @@ Location:
   background-color: #ffffff;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../img/logo/preloader.gif);
+  background-image: url(../img/logo/fav-logo3a.png);
 }
 
 .progress-wrap {
@@ -22230,7 +22230,7 @@ Location:
   font-size: var(--ztc-font-size-font-s16);
   color: var(--ztc-text-text-1);
   line-height: 16px;
-  background: #14453D;
+  background: #0b2f6e;
 }
 .apartment-inner2-section-area .arpart-slider-area .apartment-boxarea .content .btn-area1 .header-btn11:hover::after {
   background: var(--ztc-bg-bg-7);
