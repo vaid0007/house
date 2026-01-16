@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:42:18 GMT -->
+<!-- Mirrored from unifato.com/hosue/index by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:42:18 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -87,7 +87,7 @@
               <div class="space32"></div>
 
               <div class="btn-area1">
-                <a href="contact.php" class="header-btn3">Contact Us</a>
+                <a href="contact" class="header-btn3">Contact Us</a>
               </div>
 
             </div>
@@ -152,7 +152,7 @@
               <div class="space32"></div>
 
               <div class="btn-area1">
-                <a href="contact.php" class="header-btn3">Get Consultation</a>
+                <a href="contact" class="header-btn3">Get Consultation</a>
               </div>
 
             </div>
@@ -217,7 +217,7 @@
               <div class="space32"></div>
 
               <div class="btn-area1">
-                <a href="contact.php" class="header-btn3">Enquire Now</a>
+                <a href="contact" class="header-btn3">Enquire Now</a>
               </div>
 
             </div>
@@ -303,7 +303,7 @@
                     <div class="space32"></div>
 
                <div class="btn-area1">
-                <a href="apartments.php" class="header-btn3">Explore Our Properties</a>
+                <a href="apartments" class="header-btn3">Explore Our Properties</a>
               </div>
 
                 </div>
@@ -343,7 +343,7 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartments.php">Sale & Purchase</a>
+            <a href="apartments">Sale & Purchase</a>
             <div class="space18"></div>
             <p>
               Expert assistance for buying and selling residential and
@@ -363,7 +363,7 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartments.php">Rent & Leasing</a>
+            <a href="apartments">Rent & Leasing</a>
             <div class="space18"></div>
             <p>
               Find reliable tenants or rental properties with complete
@@ -382,7 +382,7 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartments.php">Bank Auction Properties</a>
+            <a href="apartments">Bank Auction Properties</a>
             <div class="space18"></div>
             <p>
               Verified bank auction property listings with complete legal
@@ -402,7 +402,7 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="apartments.php">Construction & Consulting</a>
+            <a href="apartments">Construction & Consulting</a>
             <div class="space18"></div>
             <p>
               Professional construction assistance and real estate consulting
@@ -495,7 +495,7 @@
                     </div>
                     <div class="content-area">
                         <div class="text">
-                            <a href="apartments.php">Luxury Suite Villa</a>
+                            <a href="apartments">Luxury Suite Villa</a>
                             <div class="space20"></div>
                             <ul>
                                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt=""> x2</a> <span> | </span></li>
@@ -504,7 +504,7 @@
                             </ul>
                         </div>
                         <div class="arrow">
-                            <a href="apartments.php"><i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="apartments"><i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="elements3">
@@ -790,7 +790,7 @@
                     <div class="space24"></div>
 
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="contact.php" class="header-btn3">
+                        <a href="contact" class="header-btn3">
                             Book a Site Visit
                         </a>
                     </div>
@@ -843,13 +843,13 @@
 
             <div class="space20"></div>
 
-            <a href="blog.php">
+            <a href="blog">
               Buying vs Renting: What Works Best in Karol Bagh?
             </a>
 
             <div class="space24"></div>
 
-            <a href="blog.php" class="readmore">
+            <a href="blog" class="readmore">
               Read More <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
@@ -875,13 +875,13 @@
 
             <div class="space20"></div>
 
-            <a href="blog.php">
+            <a href="blog">
               Guide to Bank Auction Properties in Delhi
             </a>
 
             <div class="space24"></div>
 
-            <a href="blog.php" class="readmore">
+            <a href="blog" class="readmore">
               Read More <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
@@ -907,13 +907,13 @@
 
             <div class="space20"></div>
 
-            <a href="blog.php">
+            <a href="blog">
               Top Investment Locations in Rajinder Nagar
             </a>
 
             <div class="space24"></div>
 
-            <a href="blog.php" class="readmore">
+            <a href="blog" class="readmore">
               Read More <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
@@ -950,5 +950,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:42:18 GMT -->
+<!-- Mirrored from unifato.com/hosue/index by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:42:18 GMT -->
 </html>

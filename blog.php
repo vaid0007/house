@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/blog.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:46 GMT -->
+<!-- Mirrored from unifato.com/hosue/blog by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:46 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,7 +59,7 @@
             <div class="inner-heading header-heading">
                 <h2>Our Blog</h2>
                 <div class="space24"></div>
-                <p><a href="index.php">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog.php">Our Blog</a></p>
+                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog">Our Blog</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>
@@ -97,9 +97,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
-              <a href="blog.php">How Luxury Suite Offers the Perfect Blend the Comfort</a>
+              <a href="blog">How Luxury Suite Offers the Perfect Blend the Comfort</a>
               <div class="space24"></div>
-              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -115,9 +115,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
-              <a href="blog.php">Guest Spotlight: Memorable Moments at Luxury Suite Villa</a>
+              <a href="blog">Guest Spotlight: Memorable Moments at Luxury Suite Villa</a>
               <div class="space24"></div>
-              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -133,9 +133,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
-              <a href="blog.php">Behind the Scenes: The Art of Creating Luxury Suite Villa</a>
+              <a href="blog">Behind the Scenes: The Art of Creating Luxury Suite Villa</a>
               <div class="space24"></div>
-              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -151,9 +151,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog.php">Your Urban Sanctuary Awaits in the Heart of the New City</a>
+                <a href="blog">Your Urban Sanctuary Awaits in the Heart of the New City</a>
                 <div class="space24"></div>
-                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -169,9 +169,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog.php">Discover Your Dream Home in the Heart of the City</a>
+                <a href="blog">Discover Your Dream Home in the Heart of the City</a>
                 <div class="space24"></div>
-                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -187,9 +187,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog.php">Find Your Perfect Home at Best Diamond Apartments</a>
+                <a href="blog">Find Your Perfect Home at Best Diamond Apartments</a>
                 <div class="space24"></div>
-                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -205,9 +205,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog.php">Experience Urban Elegance at Diamond Apartments</a>
+                <a href="blog">Experience Urban Elegance at Diamond Apartments</a>
                 <div class="space24"></div>
-                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -223,9 +223,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog.php">Where Modern Design Meets Unmatched Convenience</a>
+                <a href="blog">Where Modern Design Meets Unmatched Convenience</a>
                 <div class="space24"></div>
-                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -241,9 +241,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
-                <a href="blog.php">Experience Urban Luxury and Unparalleled Convenience</a>
+                <a href="blog">Experience Urban Luxury and Unparalleled Convenience</a>
                 <div class="space24"></div>
-                <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="blog" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -299,5 +299,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/blog.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:48 GMT -->
+<!-- Mirrored from unifato.com/hosue/blog by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:48 GMT -->
 </html>

@@ -97,26 +97,26 @@
           <div class="footer-bottom-area">
             <div class="footer-menu-area">
               <div class="footer-logo">
-                <a href="index.php">
+                <a href="index">
   <img src="assets/img/logo/logo3a.png" alt="Logo" style="width:180px; height:auto;">
 </a>
               </div>
               <div class="footer-menu">
                 <ul>
-                  <li><a href="index.php">Home</a></li>
+                  <li><a href="index">Home</a></li>
                   <li class="space24"></li>
-                  <li><a href="apartments.php">Properties</a></li>
+                  <li><a href="apartments">Properties</a></li>
                   <li class="space24"></li>
-                  <li><a href="gallery.php">Gallery</a></li>
+                  <li><a href="gallery">Gallery</a></li>
                 </ul>
               </div>
               <div class="footer-menu">
                 <ul>
-                  <li><a href="blog.php">Blog</a></li>
+                  <li><a href="blog">Blog</a></li>
                   <li class="space24"></li>
                   <li><a href="#">Pages</a></li>
                   <li class="space24"></li>
-                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="contact">Contact</a></li>
                 </ul>
               </div>
               <div class="footer-menu2">

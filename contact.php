@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
+<!-- Mirrored from unifato.com/hosue/about by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -62,7 +62,7 @@
             <div class="inner-heading header-heading">
                 <h2>Contact Us</h2>
                 <div class="space24"></div>
-                <p><a href="index.php">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog.php"> Contact Us</a></p>
+                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog"> Contact Us</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>
@@ -221,5 +221,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
+<!-- Mirrored from unifato.com/hosue/about by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
 </html>

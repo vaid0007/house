@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
+<!-- Mirrored from unifato.com/hosue/about by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -61,7 +61,7 @@
             <div class="inner-heading header-heading">
                 <h2>About ShriJi Properties</h2>
                 <div class="space24"></div>
-                <p><a href="index.php">Home <i class="fa-solid fa-angle-right"></i></a> <a href="about.php">About ShriJi Properties</a></p>
+                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="about">About ShriJi Properties</a></p>
             </div>
         </div>
         <!-- <div class="col-lg-2"></div>
@@ -117,7 +117,7 @@
 
         <div class="space32"></div>
         <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-            <a href="apartments.php" class="header-btn3">Explore Our Listings</a>
+            <a href="apartments" class="header-btn3">Explore Our Listings</a>
         </div>
     </div>
 </div>
@@ -160,7 +160,7 @@
                     <div class="space32"></div>
 
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="apartments.php" class="header-btn3">View Available Properties</a>
+                        <a href="apartments" class="header-btn3">View Available Properties</a>
                     </div>
 
                 </div>
@@ -420,7 +420,7 @@
               <img src="assets/img/all-images/apartment/apartment-img1.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartments.php">Apartment Complex</a>
+              <a href="apartments">Apartment Complex</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -429,7 +429,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartments.php">View</a>
+              <a href="apartments">View</a>
             </div>
           </div>
         </div>
@@ -439,7 +439,7 @@
               <img src="assets/img/all-images/apartment/apartment-img2.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartments.php">Diamond Apartment</a>
+              <a href="apartments">Diamond Apartment</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -448,7 +448,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartments.php">View</a>
+              <a href="apartments">View</a>
             </div>
           </div>
         </div>
@@ -459,7 +459,7 @@
               <img src="assets/img/all-images/apartment/apartment-img3.png" alt="">
             </div>
             <div class="content-area">
-              <a href="apartments.php">Luxury Suite Villa</a>
+              <a href="apartments">Luxury Suite Villa</a>
               <div class="space16"></div>
               <ul>
                 <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
@@ -468,7 +468,7 @@
               </ul>
             </div>
             <div class="arrow">
-              <a href="apartments.php">View</a>
+              <a href="apartments">View</a>
             </div>
           </div>
         </div>
@@ -501,5 +501,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
+<!-- Mirrored from unifato.com/hosue/about by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
 </html>

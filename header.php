@@ -9,15 +9,15 @@
               </div>
               <div class="main-menu">
                 <ul>
-                  <li><a href="index.php">Home</a>
+                  <li><a href="index">Home</a>
                   </li>
-                  <li><a href="about.php">About Us</a></li>
-                  <li><a href="apartments.php">Apartment</a>
+                  <li><a href="about">About Us</a></li>
+                  <li><a href="apartments">Apartment</a>
                   </li>
-                  <li><a href="blog.php">Blog</a>
-                  <li><a href="gallery.php">Gallery</a>
+                  <li><a href="blog">Blog</a>
+                  <li><a href="gallery">Gallery</a>
                   </li>
-                  <li><a href="contact.php">Contact Us</a>
+                  <li><a href="contact">Contact Us</a>
                   </li>
                 </ul>
               </div>
@@ -75,20 +75,20 @@
      </div>
     <div class="mobile-nav mobile-nav1">
       <ul class="mobile-nav-list nav-list1">
-        <li><a href="index.php" >Home </a>
+        <li><a href="index" >Home </a>
         </li>
         <li><a href="about.html">About</a></li>
-        <li><a href="apartments.php">Apartment</a>
+        <li><a href="apartments">Apartment</a>
         </li>
-        <li><a href="blog.php">Blogs</a>
+        <li><a href="blog">Blogs</a>
         </li>
-        <li><a href="gallery.php">Gallery</a>
+        <li><a href="gallery">Gallery</a>
         </li>
         <li><a href="contact.html">Contact Us</a></li>
       </ul>
   
       <div class="allmobilesection">
-        <a href="contact.php"  class="header-btn3">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
+        <a href="contact"  class="header-btn3">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
         <div class="single-footer">
           <h3>Contact Info</h3>
           <div class="footer1-contact-info">
