@@ -249,74 +249,6 @@
 
 <!--===== HERO AREA ENDS =======-->
 
-<!--===== PROPERTY AREA STARTS =======-->
-<div class="property3-section-area sp6">
-    <div class="container">
-        <div class="row align-items-center">
-            
-            <div class="col-lg-6">
-                <div class="property-images-area">
-                    <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/property/property-img4.png" alt="">
-                    </div>
-                    <div class="img2 reveal image-anime">
-                        <img src="assets/img/all-images/property/property-img5.png" alt="">
-                    </div>
-                    <div class="elements reveal image-anime">
-                        <img src="assets/img/elements/elements9.png" alt="">
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-1"></div>
-
-            <div class="col-lg-5">
-                <div class="property-content heading3">
-                    
-                    <h5 data-aos="fade-left" data-aos-duration="800">
-                        Property Overview
-                    </h5>
-
-                    <div class="space20"></div>
-
-                    <h2 class="text-anime-style-3">
-                        Complete Real Estate Solutions You Can Trust
-                    </h2>
-
-                    <div class="space16"></div>
-
-                    <p data-aos="fade-left" data-aos-duration="900">
-                        SHRIJI ESTATES offers professional real estate services for
-                        residential and commercial properties in Karol Bagh and
-                        Rajinder Nagar. We assist our clients in buying, selling,
-                        renting, and investing with complete transparency.
-                    </p>
-
-                    <div class="space16"></div>
-
-                    <p data-aos="fade-left" data-aos-duration="1000">
-                        Led by Mukund Sharma and Kishan Sharma, our firm is known
-                        for market expertise, verified listings, bank auction
-                        properties, and end-to-end documentation support.
-                    </p>
-
-                    <div class="space32"></div>
-
-                    <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="apartment-v1.html" class="header-btn4">
-                            Explore Our Properties
-                        </a>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<!--===== PROPERTY AREA ENDS =======-->
-  
 <!--===== SERVICE AREA STARTS =======-->
 <div class="service3-section-area sp1">
   <div class="container">
@@ -419,6 +351,74 @@
   </div>
 </div>
 <!--===== SERVICE AREA ENDS =======-->
+
+<!--===== PROPERTY AREA STARTS =======-->
+<div class="property3-section-area sp6">
+    <div class="container">
+        <div class="row align-items-center">
+            
+            <div class="col-lg-6">
+                <div class="property-images-area">
+                    <div class="img1 reveal image-anime">
+                        <img src="assets/img/all-images/property/property-img4.png" alt="">
+                    </div>
+                    <div class="img2 reveal image-anime">
+                        <img src="assets/img/all-images/property/property-img5.png" alt="">
+                    </div>
+                    <div class="elements reveal image-anime">
+                        <img src="assets/img/elements/elements9.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-1"></div>
+
+            <div class="col-lg-5">
+                <div class="property-content heading3">
+                    
+                    <h5 data-aos="fade-left" data-aos-duration="800">
+                        Property Overview
+                    </h5>
+
+                    <div class="space20"></div>
+
+                    <h2 class="text-anime-style-3">
+                        Complete Real Estate Solutions You Can Trust
+                    </h2>
+
+                    <div class="space16"></div>
+
+                    <p data-aos="fade-left" data-aos-duration="900">
+                        SHRIJI ESTATES offers professional real estate services for
+                        residential and commercial properties in Karol Bagh and
+                        Rajinder Nagar. We assist our clients in buying, selling,
+                        renting, and investing with complete transparency.
+                    </p>
+
+                    <div class="space16"></div>
+
+                    <p data-aos="fade-left" data-aos-duration="1000">
+                        Led by Mukund Sharma and Kishan Sharma, our firm is known
+                        for market expertise, verified listings, bank auction
+                        properties, and end-to-end documentation support.
+                    </p>
+
+                    <div class="space32"></div>
+
+                    <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
+                        <a href="apartment-v1.html" class="header-btn4">
+                            Explore Our Properties
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--===== PROPERTY AREA ENDS =======-->
+
 
 
 <!--===== ABOUT AREA STARTS =======-->
