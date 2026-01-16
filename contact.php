@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from unifato.com/hosue/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
+<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:35 GMT -->
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Shriji Estates - Contact</title>
+     <title>ShriJi Properties - Contact</title>
 
      <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/fav-logo3.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/logo/fav-logo3a.png" type="image/x-icon">
 
     <!--===== CSS LINK =======-->
     <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
@@ -28,7 +28,7 @@
 <body class="homepage3-body">
 
 <!--===== PRELOADER STARTS =======-->
-<div class="preloader" style="background-image: url('assets/img/logo/preloader.gif');"></div>
+<div class="preloader" style="background-image: url('assets/img/logo/fav-logo3a.png');"></div>
 <!--===== PRELOADER ENDS =======-->
 
 <!--===== PROGRESS STARTS=======-->
@@ -62,7 +62,7 @@
             <div class="inner-heading header-heading">
                 <h2>Contact Us</h2>
                 <div class="space24"></div>
-                <p><a href="index.html">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog-2.html"> Contact Us</a></p>
+                <p><a href="index.php">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog.php"> Contact Us</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>
@@ -75,7 +75,7 @@
               <div class="text">
                 <h3>Luxury Suite Villa</h3>
                 <div class="space10"></div>
-                <p>$1.800,000</p>
+                <p>Rs.18 Lac</p>
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@
                             <div class="contact-input-section">
                                 <h3>Send us a Message</h3>
                                 <div class="space16"></div>
-                                <p>Contact us today and let's start your journey to urban living excellence. <br> Our team at Hosue is here answer your questions, schedule viewings.</p>
+                                <p>Contact us today and let's start your journey to urban living excellence. <br> Our team at ShriJi Properties is here answer your questions, schedule viewings.</p>
                                 <div class="space12"></div>
                                 <div class="row">
                                     <div class="col-lg-6">
@@ -143,7 +143,7 @@
                                     <div class="col-lg-12">
                                         <div class="space32"></div>
                                         <div class="input-area text-end">
-                                           <button type="submit" class="header-btn4">Send Message</button>
+                                           <button type="submit" class="header-btn3">Send Message</button>
                                         </div>
                                     </div>
                                 </div>
@@ -166,7 +166,7 @@
                                 </div>
                                 <div class="content">
                                     <p>Email</p>
-                                    <a href="mailto:info@hosuevilla.com">Shrijiproperties@gmail.com 
+                                    <a href="mailto:Shrijiproperties@gmail.com">Shrijiproperties@gmail.com 
 </a>
                                 </div>
                             </div>
@@ -221,5 +221,5 @@
 
 </body>
 
-<!-- Mirrored from unifato.com/hosue/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
+<!-- Mirrored from unifato.com/hosue/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:43:36 GMT -->
 </html>
