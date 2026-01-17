@@ -5,26 +5,79 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>ShriJi Properties Home Page</title>
 
-     <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/fav-logo3b.png" type="image/x-icon">
+     <!-- ===== PRIMARY SEO META ===== -->
+     <title>Shriji Properties | Real Estate in Karol Bagh, Delhi</title>
 
-    <!--===== CSS LINK =======-->
-    <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/aos.css">
-    <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/plugins/mobile.css">
-    <link rel="stylesheet" href="assets/css/plugins/owlcarousel.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/sidebar.css">
-    <link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
-    <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+     <meta name="description" content="ShriJi Properties offers trusted real estate services in Karol Bagh & Rajinder Nagar, Delhi. Buy, sell, rent residential & commercial properties with transparent deals, verified listings, and bank auction properties.">
 
-    <!--=====  JS SCRIPT LINK =======-->
-    <script src="assets/js/plugins/jquery-3-6-0.min.js"></script>
+     <meta name="keywords" content="ShriJi Properties, Real Estate Karol Bagh, Property Dealer Rajinder Nagar, Buy Property Delhi, Sell Property Delhi, Rent Property Delhi, Bank Auction Property Delhi, Commercial Property Delhi, Residential Property Delhi">
+
+     <meta name="author" content="ShriJi Properties">
+
+     <meta name="robots" content="index, follow">
+
+     <!-- ===== CANONICAL URL ===== -->
+     <link rel="canonical" href="https://www.shrijiproperties.com/">
+
+     <!-- ===== OPEN GRAPH (FACEBOOK / SOCIAL) ===== -->
+     <meta property="og:type" content="website">
+     <meta property="og:title" content="ShriJi Properties | Trusted Real Estate in Delhi">
+     <meta property="og:description" content="Buy, sell & rent residential and commercial properties in Karol Bagh & Rajinder Nagar with ShriJi Properties. 25+ years of trusted real estate expertise.">
+     <meta property="og:url" content="https://www.shrijiproperties.com/">
+     <meta property="og:image" content="https://www.shrijiproperties.com/assets/img/logo/fav-logo3b.png">
+     <meta property="og:site_name" content="ShriJi Properties">
+
+     <!-- ===== TWITTER CARD ===== -->
+     <meta name="twitter:card" content="summary_large_image">
+     <meta name="twitter:title" content="ShriJi Properties | Real Estate Experts in Delhi">
+     <meta name="twitter:description" content="Trusted real estate solutions for buying, selling & renting properties in Delhi. Verified listings & bank auction properties.">
+     <meta name="twitter:image" content="https://www.shrijiproperties.com/assets/img/logo/fav-logo3b.png">
+
+     <!-- ===== LOCAL SEO ===== -->
+     <meta name="geo.region" content="IN-DL">
+     <meta name="geo.placename" content="Karol Bagh, Delhi">
+     <meta name="geo.position" content="28.6519;77.1907">
+     <meta name="ICBM" content="28.6519, 77.1907">
+
+     <!-- ===== FAVICONS & APP ICONS ===== -->
+
+<!-- Standard favicon -->
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/favicon-16x16.png">
+
+<!-- Fallback favicon -->
+<link rel="shortcut icon" href="assets/img/logo/favicon.png" type="image/png">
+
+<!-- Apple Touch Icon -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/apple-touch-icon.png">
+
+<!-- Android / Chrome Icons -->
+<link rel="icon" type="image/png" sizes="192x192" href="assets/img/logo/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/logo/android-chrome-512x512.png">
+
+<!-- Web App Manifest -->
+<link rel="manifest" href="assets/img/logo/site.webmanifest">
+
+
+
+
+     <!-- ===== CSS LINK (UNCHANGED) ===== -->
+     <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
+     <link rel="stylesheet" href="assets/css/plugins/aos.css">
+     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
+     <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
+     <link rel="stylesheet" href="assets/css/plugins/mobile.css">
+     <link rel="stylesheet" href="assets/css/plugins/owlcarousel.min.css">
+     <link rel="stylesheet" href="assets/css/plugins/sidebar.css">
+     <link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
+     <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
+     <link rel="stylesheet" href="assets/css/main.css">
+
+     <!-- ===== JS SCRIPT (UNCHANGED) ===== -->
+     <script src="assets/js/plugins/jquery-3-6-0.min.js"></script>
 </head>
+
 <body class="homepage3-body">
 
 <!--===== PRELOADER STARTS =======-->
@@ -74,7 +127,9 @@
 
               <div class="space20"></div>
 
-              <h2>Trusted Real Estate Solutions</h2>
+              <h1 class="fw-bold display-5 text-white lh-sm">
+  Trusted Real Estate Solutions
+</h1>
 
               <div class="space20"></div>
 
@@ -626,6 +681,8 @@
                     <h5 data-aos="fade-left" data-aos-duration="800">
                         Client Feedback
                     </h5>
+         <h4></h4>
+         <h6></h6>
 
                     <div class="space20"></div>
 

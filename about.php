@@ -5,26 +5,65 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Shriji Properties About Us</title>
 
-     <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/fav-logo3a.png" type="image/x-icon">
+     <!-- ===== PRIMARY SEO META ===== -->
+     <title>About ShriJi Properties | Trusted Real Estate Experts in Delhi</title>
 
-    <!--===== CSS LINK =======-->
-    <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/aos.css">
-    <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/plugins/mobile.css">
-    <link rel="stylesheet" href="assets/css/plugins/owlcarousel.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/sidebar.css">
-    <link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
-    <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+     <meta name="description" content="Learn about ShriJi Properties, a trusted real estate firm in Karol Bagh & Rajinder Nagar, Delhi. With 25+ years of experience, we specialize in buying, selling, renting & bank auction properties.">
 
-    <!--=====  JS SCRIPT LINK =======-->
-    <script src="assets/js/plugins/jquery-3-6-0.min.js"></script>
+     <meta name="keywords" content="About ShriJi Properties, Real Estate Company Delhi, Property Dealer Karol Bagh, Real Estate Experts Rajinder Nagar, Trusted Property Consultant Delhi">
+
+     <meta name="author" content="ShriJi Properties">
+     <meta name="robots" content="index, follow">
+
+     <!-- ===== CANONICAL URL ===== -->
+     <link rel="canonical" href="https://www.shrijiproperties.com/about-us">
+
+     <!-- ===== OPEN GRAPH (FACEBOOK / SOCIAL) ===== -->
+     <meta property="og:type" content="website">
+     <meta property="og:title" content="About ShriJi Properties | Real Estate Experts in Delhi">
+     <meta property="og:description" content="Discover ShriJi Properties – trusted real estate professionals in Karol Bagh & Rajinder Nagar, Delhi with 25+ years of experience.">
+     <meta property="og:url" content="https://www.shrijiproperties.com/about-us">
+     <meta property="og:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
+     <meta property="og:site_name" content="ShriJi Properties">
+
+     <!-- ===== TWITTER CARD ===== -->
+     <meta name="twitter:card" content="summary_large_image">
+     <meta name="twitter:title" content="About ShriJi Properties | Trusted Real Estate in Delhi">
+     <meta name="twitter:description" content="25+ years of real estate expertise in Delhi. Buy, sell & rent residential and commercial properties with ShriJi Properties.">
+     <meta name="twitter:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
+
+     <!-- ===== LOCAL SEO ===== -->
+     <meta name="geo.region" content="IN-DL">
+     <meta name="geo.placename" content="Karol Bagh, Delhi">
+     <meta name="geo.position" content="28.6519;77.1907">
+     <meta name="ICBM" content="28.6519, 77.1907">
+
+     <!-- ===== FAVICONS & APP ICONS ===== -->
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon-32x32.png">
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/favicon-16x16.png">
+     <link rel="shortcut icon" href="assets/img/logo/fav-logo3a.png" type="image/png">
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/apple-touch-icon.png">
+     <link rel="icon" type="image/png" sizes="192x192" href="assets/img/logo/android-chrome-192x192.png">
+     <link rel="icon" type="image/png" sizes="512x512" href="assets/img/logo/android-chrome-512x512.png">
+     <link rel="manifest" href="assets/img/logo/site.webmanifest">
+
+     <!-- ===== CSS LINK (UNCHANGED) ===== -->
+     <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
+     <link rel="stylesheet" href="assets/css/plugins/aos.css">
+     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
+     <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
+     <link rel="stylesheet" href="assets/css/plugins/mobile.css">
+     <link rel="stylesheet" href="assets/css/plugins/owlcarousel.min.css">
+     <link rel="stylesheet" href="assets/css/plugins/sidebar.css">
+     <link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
+     <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
+     <link rel="stylesheet" href="assets/css/main.css">
+
+     <!-- ===== JS SCRIPT (UNCHANGED) ===== -->
+     <script src="assets/js/plugins/jquery-3-6-0.min.js"></script>
 </head>
+
 <body class="homepage3-body">
 
 <!--===== PRELOADER STARTS =======-->
@@ -59,7 +98,7 @@
       <div class="row">
         <div class="col-lg-5">
             <div class="inner-heading header-heading">
-                <h2>About ShriJi Properties</h2>
+                 <h1 class="fw-bold display-5 text-white lh-sm">About ShriJi Properties</h1>
                 <div class="space24"></div>
                 <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="about">About ShriJi Properties</a></p>
             </div>
@@ -135,7 +174,10 @@
             <div class="col-lg-5">
                 <div class="about-header heading3">
 
+                <h4></h4>
+
                     <h5 data-aos="fade-left" data-aos-duration="800">ShriJi Properties</h5>
+                    <h6></h6>
 
                     <div class="space20"></div>
 
