@@ -123,8 +123,8 @@
                 <ul>
                   <li><a href="#"> <span><i class="fa-solid fa-location-dot"></i></span> <span> 12/A-2 Karol Bagh <br> Main sarawati marg </span></a></li>
                   <li class="space24"></li>
-                  <li><a href="tel:123-456-7890"><span><i class="fa-solid fa-phone"></i></span> <span>9810398406</span></a></li>
-                  <li><a href="tel:123-456-7890"><span><i class="fa-solid fa-phone"></i></span> <span>8800882752</span></a></li>
+                  <li><a href="tel:123-456-7890"><span><i class="fa-solid fa-phone"></i></span> <span>+91 98103 98406</span></a></li>
+                  <li><a href="tel:123-456-7890"><span><i class="fa-solid fa-phone"></i></span> <span>+91 88008 82752</span></a></li>
                 </ul>
               </div>
               <div class="footer-social">

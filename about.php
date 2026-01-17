@@ -217,14 +217,14 @@
                 <div class="space86"></div>
 
                 <div class="testimonial-video-area" data-aos="zoom-in-up" data-aos-duration="1000">
-                    <div class="img1">
+                    <!-- <div class="img1">
                         <img src="assets/img/all-images/testimonial/testimonial-img3.png" alt="">
-                    </div>
-                    <div class="icons">
+                    </div> -->
+                    <!-- <div class="icons">
                         <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube">
                             <i class="fa-solid fa-play"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

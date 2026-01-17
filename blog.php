@@ -93,7 +93,7 @@
             </div>
             <div class="content-area">
               <ul>
-                <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Sanjay Sharma</a> <span> | </span></li>
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
@@ -111,7 +111,7 @@
             </div>
             <div class="content-area">
               <ul>
-                <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Raj Verma</a> <span> | </span></li>
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
@@ -129,7 +129,7 @@
             </div>
             <div class="content-area">
               <ul>
-                <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Swami Narayan</a> <span> | </span></li>
                 <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
               </ul>
               <div class="space20"></div>
@@ -147,7 +147,7 @@
               </div>
               <div class="content-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Sunita Kumari</a> <span> | </span></li>
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
@@ -165,7 +165,7 @@
               </div>
               <div class="content-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Kanika Goswami</a> <span> | </span></li>
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
@@ -183,7 +183,7 @@
               </div>
               <div class="content-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Vedika Acharya</a> <span> | </span></li>
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
@@ -201,7 +201,7 @@
               </div>
               <div class="content-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Aliya Saifi</a> <span> | </span></li>
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
@@ -219,7 +219,7 @@
               </div>
               <div class="content-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Oliver Peter</a> <span> | </span></li>
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>
@@ -237,7 +237,7 @@
               </div>
               <div class="content-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Joe Root</a> <span> | </span></li>
+                  <li><a href="#"><img src="assets/img/icons/user.svg" alt=""> Rajesh Rishi</a> <span> | </span></li>
                   <li><a href="#"><img src="assets/img/icons/calender.svg" alt=""> 16 April, 2024</a></li>
                 </ul>
                 <div class="space20"></div>

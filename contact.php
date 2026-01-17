@@ -156,7 +156,7 @@
                                 </div>
                                 <div class="content">
                                     <p>Call</p>
-                                    <a href="tel:+1234567890">9810398406</a>
+                                    <a href="tel:+91  98103  98406">+91  98103  98406</a>
                                 </div>
                             </div>
                             <div class="space20"></div>
@@ -177,7 +177,7 @@
                                 </div>
                                 <div class="content">
                                     <p>Schedule Time</p>
-                                    <a href="#">24/7 Anytime All Support</a>
+                                    <a href="#">24/7 Support Available</a>
                                 </div>
                             </div>
                         </div>

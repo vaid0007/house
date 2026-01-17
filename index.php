@@ -472,7 +472,7 @@
                     <div class="space32"></div>
 
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="apartment-v1.html" class="header-btn4">
+                        <a href="apartments" class="header-btn4">
                             Explore Our Properties
                         </a>
                     </div>
@@ -536,10 +536,10 @@
                             <h2><span class="counter">25</span>+</h2>
                             <div class="space12"></div>
                             <p>Years Of Experience</p>
-                            <div class="space20"></div>
+                            <!-- <div class="space20"></div>
                             <img src="assets/img/all-images/about/about-img6.png" alt="">
                             <div class="space18"></div>
-                            <p>Our Happy Clients</p>
+                            <p>Our Happy Clients</p> -->
                         </div>
                         <div class="space30 d-md-none d-block"></div>
                     </div>
@@ -548,9 +548,9 @@
                             <div class="img1 image-anime reveal">
                                 <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><img src="assets/img/all-images/about/about-img5.png" alt=""></a>
                             </div>
-                            <div class="play-btn">
+                            <!-- <div class="play-btn">
                                 <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><i class="fa-solid fa-play"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -586,7 +586,7 @@
 <!--===== ABOUT AREA ENDS =======-->
 
 <!--===== GALLERY AREA STARTS =======-->
-<div class="gallery3-section-area">
+<!-- <div class="gallery3-section-area">
   <div class="container">
     <div class="row">
       <div class="col-lg-5 m-auto">
@@ -612,7 +612,7 @@
   </div>
 </div>
 <div class="space100 d-lg-block d-none"></div>
-<div class="space50 d-lg-none d-block"></div>
+<div class="space50 d-lg-none d-block"></div> -->
 <!--===== GALLERY AREA ENDS =======-->
 
 <!--===== TESTIMONIAL AREA STARTS =======-->
@@ -634,7 +634,7 @@
                     </h2>
 
                     <div class="space16"></div>
-
+                
                     <p data-aos="fade-left" data-aos-duration="1000">
                         Our clients trust ShriJi Properties for transparent deals,
                         verified properties, and professional guidance across
@@ -654,14 +654,14 @@
 
                 <!-- Video Area -->
                 <div class="testimonial-video-area" data-aos="zoom-in-up" data-aos-duration="1000">
-                    <div class="img1">
+                    <!-- <div class="img1">
                         <img src="assets/img/all-images/testimonial/testimonial-img3.png" alt="">
                     </div>
                     <div class="icons">
                         <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube">
                             <i class="fa-solid fa-play"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
@@ -677,7 +677,7 @@
                             <div class="verical-boxarea">
                                 <div class="images-area">
                                     <div class="img1">
-                                        <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
+                                        <img src="assets/img/all-images/testimonial/testimonial-img4b.png" alt="">
                                     </div>
                                     <div class="text">
                                         <a href="#">Rahul Mehta</a>
@@ -717,7 +717,7 @@
                             <div class="verical-boxarea">
                                 <div class="images-area">
                                     <div class="img1">
-                                        <img src="assets/img/all-images/testimonial/testimonial-img5.png" alt="">
+                                        <img src="assets/img/all-images/testimonial/testimonial-img5a.png" alt="">
                                     </div>
                                     <div class="text">
                                         <a href="#">Neha Kapoor</a>
@@ -757,7 +757,7 @@
                             <div class="verical-boxarea">
                                 <div class="images-area">
                                     <div class="img1">
-                                        <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
+                                        <img src="assets/img/all-images/testimonial/testimonial-img4a.png" alt="">
                                     </div>
                                     <div class="text">
                                         <a href="#">Amit Verma</a>

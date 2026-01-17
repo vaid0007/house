@@ -5,7 +5,7 @@
           <div class="col-lg-12">
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index.html"><img src="assets/img/logo/logo3a.png" alt=""></a>
+                <a href="index"><img src="assets/img/logo/logo3a.png" alt=""></a>
               </div>
               <div class="main-menu">
                 <ul>
@@ -54,7 +54,7 @@
       <div class="col-12">
         <div class="mobile-header-elements">
           <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo/logo3a.png" alt=""></a>
+            <a href="index"><img src="assets/img/logo/logo3a.png" alt=""></a>
           </div>
           <div class="mobile-nav-icon dots-menu">
             <i class="fa-solid fa-bars"></i>
@@ -77,14 +77,14 @@
       <ul class="mobile-nav-list nav-list1">
         <li><a href="index" >Home </a>
         </li>
-        <li><a href="about.html">About</a></li>
+        <li><a href="about">About</a></li>
         <li><a href="apartments">Apartment</a>
         </li>
         <li><a href="blog">Blogs</a>
         </li>
         <li><a href="gallery">Gallery</a>
         </li>
-        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="contact">Contact Us</a></li>
       </ul>
   
       <div class="allmobilesection">
@@ -97,7 +97,7 @@
                 <i class="fa-solid fa-phone-volume"></i>
               </div>
               <div class="contact-info-text">
-                <a href="tel:9810398406">9810398406</a>
+                <a href="tel:9810398406">+91 98103 98406</a>
               </div>
             </div>
   
@@ -106,7 +106,7 @@
                 <i class="fa-solid fa-envelope"></i>
               </div>
               <div class="contact-info-text">
-                <a href="mailto:info@example.com">Shrijiproperties@gmail.com</a>
+                <a href="Shrijiproperties@gmail.com">Shrijiproperties@gmail.com</a>
               </div>
             </div>
   
