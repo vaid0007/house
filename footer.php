@@ -143,7 +143,11 @@
               <div class="col-lg-12">
                 <div class="space48"></div>
                 <div class="copyright-area">
+<<<<<<< HEAD
                   <p>2026 Desgined By <a href="https://freelancesociety.in/">Freelance Society</a></p>
+=======
+                 <p>© 2026 <a href="https://freelancesociety.in" target="_blank" rel="noopener noreferrer">Freelance Society</a></p>
+>>>>>>> 62e3210d3b7c13bd875c65772925fea163f69401
                 </div>
               </div>
             </div>
