@@ -140,7 +140,7 @@
               <div class="col-lg-12">
                 <div class="space48"></div>
                 <div class="copyright-area">
-                  <p>© 2026 Freelance Society</p>
+                 <p>© 2026 <a href="https://freelancesociety.in" target="_blank" rel="noopener noreferrer">Freelance Society</a></p>
                 </div>
               </div>
             </div>
