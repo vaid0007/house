@@ -5,11 +5,11 @@
           <div class="col-lg-12">
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index"><img src="assets/img/logo/logo3a.png" alt=""></a>
+                <a href="/"><img src="assets/img/logo/logo3a.png" alt=""></a>
               </div>
               <div class="main-menu">
                 <ul>
-                  <li><a href="index">Home</a>
+                  <li><a href="/">Home</a>
                   </li>
                   <li><a href="about">About Us</a></li>
                   <li><a href="apartments">Apartment</a>
@@ -57,7 +57,7 @@
       <div class="col-12">
         <div class="mobile-header-elements">
           <div class="mobile-logo">
-            <a href="index"><img src="assets/img/logo/logo3a.png" alt=""></a>
+            <a href="/"><img src="assets/img/logo/logo3a.png" alt=""></a>
           </div>
           <div class="mobile-nav-icon dots-menu">
             <i class="fa-solid fa-bars"></i>
@@ -78,7 +78,7 @@
      </div>
     <div class="mobile-nav mobile-nav1">
       <ul class="mobile-nav-list nav-list1">
-        <li><a href="index" >Home </a>
+        <li><a href="/" >Home</a>
         </li>
         <li><a href="about">About</a></li>
         <li><a href="apartments">Apartment</a>

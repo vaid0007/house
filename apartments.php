@@ -96,9 +96,9 @@
       <div class="row">
         <div class="col-lg-5">
             <div class="inner-heading header-heading">
-                 <h1 class="fw-bold display-5 text-white lh-sm">Apartments</h1>
+                 <h1 class="fw-bold display-5 text-white lh-sm">Service</h1>
                 <div class="space24"></div>
-                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="apartments">Apartments</a></p>
+                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="apartments">Service</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>
