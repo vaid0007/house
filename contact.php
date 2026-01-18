@@ -36,8 +36,8 @@
      <!-- ===== LOCAL SEO ===== -->
      <meta name="geo.region" content="IN-DL">
      <meta name="geo.placename" content="Karol Bagh, Delhi">
-     <meta name="geo.position" content="28.6519;77.1907">
-     <meta name="ICBM" content="28.6519, 77.1907">
+     <meta name="geo.position" content="28.646222;77.187583">
+     <meta name="ICBM" content="28.646222, 77.187583">
 
      <!-- ===== FAVICONS & APP ICONS ===== -->
      <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon-32x32.png">
@@ -145,7 +145,7 @@
                                     <div class="col-lg-6">
                                         <div class="space20"></div>
                                         <div class="input-area">
-                                            <input type="text" placeholder="First Name">
+                                            <input type="text" placeholder="First Name*">
                                         </div>
                                     </div>
 
@@ -159,7 +159,7 @@
                                     <div class="col-lg-6">
                                         <div class="space20"></div>
                                         <div class="input-area">
-                                            <input type="number" placeholder="Phone">
+                                            <input type="number" placeholder="Phone*">
                                         </div>
                                     </div>
 
@@ -168,12 +168,15 @@
                                         <div class="input-area">
                                             <select name="country"  class="nice-select">
                                                 <option value="1" data-display="Subject*">Subject*</option>
-                                                <option value="">Option 01</option>
-                                                <option value="">Option 02</option>
-                                                <option value="">Option 03</option>
-                                                <option value="">Option 04</option>
-                                                <option value="">Option 05</option>
-                                                <option value="">Option 06</option>
+                                                <option value="">General Inquiry</option>
+                                                <option value="">New Projects</option>
+                                                <option value="">Project Details & Brochure Request</option>
+                                                <option value="">Schedule a Site Visit</option>
+                                                <option value="">Legal & Documentation Query</option>
+                                                <option value="">NRI Property Assistance</option>
+                                                <option value="">Price & Availability Inquiry</option>
+                                                <option value="">Commercial Real Estate Inquiry</option>
+                                                <option value="">Residential Buying Assistance</option>
                                               </select>
                                         </div>
                                     </div>

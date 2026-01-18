@@ -36,8 +36,8 @@
      <!-- ===== LOCAL SEO ===== -->
      <meta name="geo.region" content="IN-DL">
      <meta name="geo.placename" content="Karol Bagh, Delhi">
-     <meta name="geo.position" content="28.6519;77.1907">
-     <meta name="ICBM" content="28.6519, 77.1907">
+     <meta name="geo.position" content="28.646222;77.187583">
+     <meta name="ICBM" content="28.646222, 77.187583">
 
      <!-- ===== FAVICONS & APP ICONS ===== -->
      <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon-32x32.png">
@@ -252,7 +252,7 @@
 
                     <div class="space32"></div>
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="testimonial.php" class="header-btn3">View All Testimonials</a>
+                        <a href="apartments" class="header-btn3">View Our Properties</a>
                     </div>
                 </div>
 

@@ -7,7 +7,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
      <!-- ===== PRIMARY SEO META ===== -->
-     <title>Property Gallery | ShriJi Properties, Karol Bagh Delhi</title>
+     <title>ShriJi Properties, Karol Bagh Delhi | Property Gallery</title>
 
      <meta name="description" content="Explore our property gallery showcasing residential & commercial projects in Karol Bagh and Rajinder Nagar, Delhi. View interiors, exteriors, and featured properties by ShriJi Properties.">
 
@@ -21,7 +21,7 @@
 
      <!-- ===== OPEN GRAPH (FACEBOOK / SOCIAL) ===== -->
      <meta property="og:type" content="website">
-     <meta property="og:title" content="Property Gallery | ShriJi Properties Delhi">
+     <meta property="og:title" content="ShriJi Properties Delhi | Property Gallery">
      <meta property="og:description" content="View our real estate gallery featuring residential and commercial properties in Karol Bagh & Rajinder Nagar, Delhi.">
      <meta property="og:url" content="https://www.shrijiproperties.com/gallery">
      <meta property="og:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
@@ -29,15 +29,15 @@
 
      <!-- ===== TWITTER CARD ===== -->
      <meta name="twitter:card" content="summary_large_image">
-     <meta name="twitter:title" content="Property Gallery | ShriJi Properties">
+     <meta name="twitter:title" content="ShriJi Properties | Property Gallery">
      <meta name="twitter:description" content="Browse photos of residential & commercial properties in Delhi by ShriJi Properties.">
      <meta name="twitter:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
 
      <!-- ===== LOCAL SEO ===== -->
      <meta name="geo.region" content="IN-DL">
      <meta name="geo.placename" content="Karol Bagh, Delhi">
-     <meta name="geo.position" content="28.6519;77.1907">
-     <meta name="ICBM" content="28.6519, 77.1907">
+     <meta name="geo.position" content="28.646222;77.187583">
+     <meta name="ICBM" content="28.646222, 77.187583">
 
      <!-- ===== FAVICONS & APP ICONS ===== -->
      <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon-32x32.png">
