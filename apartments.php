@@ -127,8 +127,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-9">
-            <div class="apartment-list-area space-margin60">
-                <div class="select-area">
+            <div class="apartment-list-area space-margin60">  
+                <!-- <div class="select-area">
                     <select name="country"  class="nice-select">
                         <option value="1" data-display="All USA City">All USA City</option>
                         <option value="">New York City, New York</option>
@@ -163,7 +163,7 @@
                 </div>
                 <div class="btn-area1">
                     <button type="submit" class="header-btn3">Search Now</button>
-                </div>
+                </div> -->
             </div>
         </div>
       </div>
@@ -330,7 +330,7 @@
           <div class="col-lg-12">
             <div class="space30"></div>
             <div class="pagination-area">
-                <nav aria-label="Page navigation example">
+                <!-- <nav aria-label="Page navigation example">
                     <ul class="pagination">
                       <li class="page-item">
                         <a class="page-link" href="#" aria-label="Previous">
@@ -347,7 +347,7 @@
                         </a>
                       </li>
                     </ul>
-                  </nav>
+                  </nav> -->
             </div>
           </div>
       </div>

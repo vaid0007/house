@@ -145,7 +145,7 @@
                                     <div class="col-lg-6">
                                         <div class="space20"></div>
                                         <div class="input-area">
-                                            <input type="text" placeholder="First Name">
+                                            <input type="text" placeholder="First Name*">
                                         </div>
                                     </div>
 
@@ -159,7 +159,7 @@
                                     <div class="col-lg-6">
                                         <div class="space20"></div>
                                         <div class="input-area">
-                                            <input type="number" placeholder="Phone">
+                                            <input type="number" placeholder="Phone*">
                                         </div>
                                     </div>
 
@@ -168,12 +168,15 @@
                                         <div class="input-area">
                                             <select name="country"  class="nice-select">
                                                 <option value="1" data-display="Subject*">Subject*</option>
-                                                <option value="">Option 01</option>
-                                                <option value="">Option 02</option>
-                                                <option value="">Option 03</option>
-                                                <option value="">Option 04</option>
-                                                <option value="">Option 05</option>
-                                                <option value="">Option 06</option>
+                                                <option value="">General Inquiry</option>
+                                                <option value="">New Projects</option>
+                                                <option value="">Project Details & Brochure Request</option>
+                                                <option value="">Schedule a Site Visit</option>
+                                                <option value="">Legal & Documentation Query</option>
+                                                <option value="">NRI Property Assistance</option>
+                                                <option value="">Price & Availability Inquiry</option>
+                                                <option value="">Commercial Real Estate Inquiry</option>
+                                                <option value="">Residential Buying Assistance</option>
                                               </select>
                                         </div>
                                     </div>

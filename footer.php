@@ -130,9 +130,12 @@
               <div class="footer-social">
                <ul>
                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-google-plus-g"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                    <li>
+  <a href="#"><i class="fa-brands fa-instagram"></i></a>
+</li>
+<li>
+  <a href="#"><i class="fa-brands fa-twitter"></i></a>
+</li>
                </ul>
               </div>
             </div>

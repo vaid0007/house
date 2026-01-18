@@ -292,7 +292,7 @@
             <div class="pagination-area">
                 <nav aria-label="Page navigation example">
                     <ul class="pagination">
-                      <li class="page-item">
+                      <!-- <li class="page-item">
                         <a class="page-link" href="#" aria-label="Previous">
                             <i class="fa-solid fa-angle-left"></i>
                         </a>
@@ -305,7 +305,7 @@
                         <a class="page-link m-0" href="#" aria-label="Next">
                             <i class="fa-solid fa-angle-right"></i>
                         </a>
-                      </li>
+                      </li> -->
                     </ul>
                   </nav>
             </div>

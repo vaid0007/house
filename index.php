@@ -474,7 +474,7 @@
 <!--===== SERVICE AREA ENDS =======-->
 
 <!--===== PROPERTY AREA STARTS =======-->
-<div class="property3-section-area sp6">
+<!-- <div class="property3-section-area sp6">
     <div class="container">
         <div class="row align-items-center">
             
@@ -537,7 +537,7 @@
 
         </div>
     </div>
-</div>
+</div> -->
 <!--===== PROPERTY AREA ENDS =======-->
 
 
@@ -701,8 +701,8 @@
                     <div class="space32"></div>
 
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-                        <a href="testimonial.php" class="header-btn3">
-                            View All Testimonials
+                        <a href="apartments" class="header-btn3">
+                            View Our Properties
                         </a>
                     </div>                   
                 </div>
