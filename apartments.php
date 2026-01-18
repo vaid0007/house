@@ -21,7 +21,7 @@
 
      <!-- ===== OPEN GRAPH (FACEBOOK / SOCIAL) ===== -->
      <meta property="og:type" content="website">
-     <meta property="og:title" content="Apartments & Properties in Delhi | ShriJi Properties">
+     <meta property="og:title" content=" ShriJi Properties | Apartments & Properties in Delhi">
      <meta property="og:description" content="Browse verified apartments and properties in Karol Bagh & Rajinder Nagar, Delhi. Buy, sell or rent with trusted real estate experts.">
      <meta property="og:url" content="https://www.shrijiproperties.com/apartments">
      <meta property="og:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
@@ -29,15 +29,15 @@
 
      <!-- ===== TWITTER CARD ===== -->
      <meta name="twitter:card" content="summary_large_image">
-     <meta name="twitter:title" content="Apartments & Property Listings | ShriJi Properties">
+     <meta name="twitter:title" content="ShriJi Properties | Apartments & Property Listings">
      <meta name="twitter:description" content="Find residential & commercial apartments in Delhi with ShriJi Properties. Verified listings and expert guidance.">
      <meta name="twitter:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
 
      <!-- ===== LOCAL SEO ===== -->
      <meta name="geo.region" content="IN-DL">
      <meta name="geo.placename" content="Karol Bagh, Delhi">
-     <meta name="geo.position" content="28.6519;77.1907">
-     <meta name="ICBM" content="28.6519, 77.1907">
+     <meta name="geo.position" content="28.646222;77.187583">
+     <meta name="ICBM" content="28.646222, 77.187583">
 
      <!-- ===== FAVICONS & APP ICONS ===== -->
      <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon-32x32.png">

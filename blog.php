@@ -7,7 +7,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
      <!-- ===== PRIMARY SEO META ===== -->
-     <title>Real Estate Blog | Property News & Insights – ShriJi Properties</title>
+     <title> ShriJi Properties | Real Estate Blog - Property News & Insights</title>
 
      <meta name="description" content="Read the latest real estate news, property tips, and investment insights for Karol Bagh & Rajinder Nagar, Delhi. Expert guidance from ShriJi Properties.">
 
@@ -21,7 +21,7 @@
 
      <!-- ===== OPEN GRAPH (FACEBOOK / SOCIAL) ===== -->
      <meta property="og:type" content="website">
-     <meta property="og:title" content="Real Estate Blog | ShriJi Properties">
+     <meta property="og:title" content="ShriJi Properties | Real Estate Blog">
      <meta property="og:description" content="Expert real estate news, buying tips, rental guides, and investment insights for Delhi by ShriJi Properties.">
      <meta property="og:url" content="https://www.shrijiproperties.com/blog">
      <meta property="og:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
@@ -29,15 +29,15 @@
 
      <!-- ===== TWITTER CARD ===== -->
      <meta name="twitter:card" content="summary_large_image">
-     <meta name="twitter:title" content="Real Estate Blog | ShriJi Properties">
+     <meta name="twitter:title" content="ShriJi Properties | Real Estate Blog">
      <meta name="twitter:description" content="Latest property news and insights from ShriJi Properties. Buy, sell & invest smarter in Delhi.">
      <meta name="twitter:image" content="https://www.shrijiproperties.com/assets/img/logo/logo3b.png">
 
      <!-- ===== LOCAL SEO ===== -->
      <meta name="geo.region" content="IN-DL">
      <meta name="geo.placename" content="Karol Bagh, Delhi">
-     <meta name="geo.position" content="28.6519;77.1907">
-     <meta name="ICBM" content="28.6519, 77.1907">
+     <meta name="geo.position" content="28.646222;77.187583">
+     <meta name="ICBM" content="28.646222, 77.187583">
 
      <!-- ===== FAVICONS & APP ICONS ===== -->
      <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon-32x32.png">
