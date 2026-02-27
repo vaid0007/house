@@ -102,7 +102,7 @@
                 <h1 class="fw-bold display-5 text-white lh-sm">Contact Us</h1>
                 <h2></h2>
                 <div class="space24"></div>
-                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog"> Contact Us</a></p>
+                <p><a href="./">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog"> Contact Us</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>

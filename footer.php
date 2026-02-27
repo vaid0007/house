@@ -42,7 +42,7 @@
                         <div class="col-lg-5 col-md-6">
                             <div class="instagram-posts" data-aos="zoom-in-up" data-aos-duration="800">
                                 <div class="img1">
-                                  <img src="assets/img/all-images/others/others-img7.png" alt="">
+                                  <img src="assets/img/all-images/others/others-img7a.png" alt="">
                                 </div>
                                 <div class="icons">
                                   <a href="#"><i class="fa-brands fa-instagram"></i></a>
@@ -52,7 +52,7 @@
                         <div class="col-lg-7 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
                             <div class="instagram-posts">
                                 <div class="img1">
-                                  <img src="assets/img/all-images/others/others-img8.png" alt="">
+                                  <img src="assets/img/all-images/others/others-img8a.png" alt="">
                                 </div>
                                 <div class="icons">
                                   <a href="#"><i class="fa-brands fa-instagram"></i></a>
@@ -63,7 +63,7 @@
                         <div class="col-lg-7 col-md-6" data-aos="zoom-in-up" data-aos-duration="1100">
                             <div class="instagram-posts">
                                 <div class="img1">
-                                  <img src="assets/img/all-images/others/others-img9.png" alt="">
+                                  <img src="assets/img/all-images/others/others-img9a.png" alt="">
                                 </div>
                                 <div class="icons">
                                   <a href="#"><i class="fa-brands fa-instagram"></i></a>
@@ -74,7 +74,7 @@
                         <div class="col-lg-5 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
                             <div class="instagram-posts">
                                 <div class="img1">
-                                  <img src="assets/img/all-images/others/others-img10.png" alt="">
+                                  <img src="assets/img/all-images/others/others-img10a.png" alt="">
                                 </div>
                                 <div class="icons">
                                   <a href="#"><i class="fa-brands fa-instagram"></i></a>
@@ -97,13 +97,13 @@
           <div class="footer-bottom-area">
             <div class="footer-menu-area">
               <div class="footer-logo">
-                <a href="index">
+                <a href="./">
   <img src="assets/img/logo/logo3a.png" alt="Logo" style="width:180px; height:auto;">
 </a>
               </div>
               <div class="footer-menu">
                 <ul>
-                  <li><a href="index">Home</a></li>
+                  <li><a href="./">Home</a></li>
                   <li class="space24"></li>
                   <li><a href="apartments">Properties</a></li>
                   <li class="space24"></li>
@@ -143,11 +143,7 @@
               <div class="col-lg-12">
                 <div class="space48"></div>
                 <div class="copyright-area">
-<<<<<<< HEAD
-                  <p>2026 Desgined By <a href="https://freelancesociety.in/">Freelance Society</a></p>
-=======
                  <p>© 2026 <a href="https://freelancesociety.in" target="_blank" rel="noopener noreferrer">Freelance Society</a></p>
->>>>>>> 62e3210d3b7c13bd875c65772925fea163f69401
                 </div>
               </div>
             </div>

@@ -105,7 +105,7 @@
   <!-- Slide 1 -->
   <div class="main-hero-area">
     <div class="img1">
-      <img src="assets/img/all-images/hero/hero-img6.png" alt="">
+      <img src="assets/img/all-images/hero/hero-img6a.png" alt="">
     </div>
     <div class="bg-elements">
       <img src="assets/img/elements/elements7.png" alt="" class="elements2">
@@ -155,7 +155,7 @@
           <div class="auhtor-box">
             <div class="others-box">
               <div class="img3">
-                <img src="assets/img/all-images/others/others-img1.png" alt="">
+                <img src="assets/img/all-images/others/others-img1a.png" alt="">
               </div>
               <div class="text">
                 <h3>Residential & Commercial</h3>
@@ -173,7 +173,7 @@
   <!-- Slide 2 -->
   <div class="main-hero-area">
     <div class="img1">
-      <img src="assets/img/all-images/hero/hero-img5.png" alt="">
+      <img src="assets/img/all-images/hero/hero-img5a.png" alt="">
     </div>
     <div class="bg-elements">
       <img src="assets/img/elements/elements7.png" alt="" class="elements2">
@@ -220,7 +220,7 @@
           <div class="auhtor-box">
             <div class="others-box">
               <div class="img3">
-                <img src="assets/img/all-images/others/others-img1.png" alt="">
+                <img src="assets/img/all-images/others/others-img1b.png" alt="">
               </div>
               <div class="text">
                 <h3>Bank Auction Properties</h3>
@@ -238,7 +238,7 @@
   <!-- Slide 3 -->
   <div class="main-hero-area">
     <div class="img1">
-      <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+      <img src="assets/img/all-images/hero/hero-img1a.png" alt="">
     </div>
     <div class="bg-elements">
       <img src="assets/img/elements/elements7.png" alt="" class="elements2">
@@ -285,7 +285,7 @@
           <div class="auhtor-box">
             <div class="others-box">
               <div class="img3">
-                <img src="assets/img/all-images/others/others-img1.png" alt="">
+                <img src="assets/img/all-images/others/others-img1c.png" alt="">
               </div>
               <div class="text">
                 <h3>ShriJi Properties</h3>
@@ -312,10 +312,10 @@
             <div class="col-lg-6">
                 <div class="property-images-area">
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/property/property-img4.png" alt="">
+                        <img src="assets/img/all-images/property/property-img4a.png" alt="">
                     </div>
                     <div class="img2 reveal image-anime">
-                        <img src="assets/img/all-images/property/property-img5.png" alt="">
+                        <img src="assets/img/all-images/property/property-img5a.png" alt="">
                     </div>
                     <div class="elements reveal image-anime">
                         <img src="assets/img/elements/elements9.png" alt="">
@@ -394,7 +394,7 @@
       <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
         <div class="amenities-boxarea">
           <div class="img1">
-            <img src="assets/img/all-images/service/service-img4.png" alt="">
+            <img src="assets/img/all-images/service/service-img4a.png" alt="">
           </div>
           <div class="space32"></div>
           <div class="content-area">
@@ -414,7 +414,7 @@
         <div class="space40 d-lg-block d-none"></div>
         <div class="amenities-boxarea">
           <div class="img1">
-            <img src="assets/img/all-images/service/service-img5.png" alt="">
+            <img src="assets/img/all-images/service/service-img5a.png" alt="">
           </div>
           <div class="space32"></div>
           <div class="content-area">
@@ -433,7 +433,7 @@
       <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1100">
         <div class="amenities-boxarea">
           <div class="img1">
-            <img src="assets/img/all-images/service/service-img7.png" alt="">
+            <img src="assets/img/all-images/service/service-img7a.png" alt="">
           </div>
           <div class="space32"></div>
           <div class="content-area">
@@ -453,7 +453,7 @@
         <div class="space40 d-lg-block d-none"></div>
         <div class="amenities-boxarea">
           <div class="img1">
-            <img src="assets/img/all-images/service/service-img8.png" alt="">
+            <img src="assets/img/all-images/service/service-img8a.png" alt="">
           </div>
           <div class="space32"></div>
           <div class="content-area">
@@ -559,29 +559,29 @@
             <div class="col-lg-6">
                 <div class="about-slider-area owl-carousel">
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3a.png" alt="">
                     </div>
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3b.png" alt="">
                     </div>
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3c.png" alt="">
                     </div>
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3d.png" alt="">
                     </div>
 
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3e.png" alt="">
                     </div>
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3a.png" alt="">
                     </div>
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3b.png" alt="">
                     </div>
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img3.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3c.png" alt="">
                     </div>
                 </div>
                 <div class="space30"></div>
@@ -601,7 +601,7 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="about-video-area">
                             <div class="img1 image-anime reveal">
-                                <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><img src="assets/img/all-images/about/about-img5.png" alt=""></a>
+                                <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><img src="assets/img/all-images/about/about-img5a.png" alt=""></a>
                             </div>
                             <!-- <div class="play-btn">
                                 <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><i class="fa-solid fa-play"></i></a>
@@ -614,7 +614,7 @@
                 <div class="space30 d-lg-none d-block"></div>
                 <div class="about-widget-images">
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img4.png" alt="">
+                        <img src="assets/img/all-images/about/about-img4a.png" alt="">
                     </div>
                     <div class="content-area">
                         <div class="text">
@@ -878,10 +878,10 @@
             <div class="col-lg-5">
                 <div class="images-area">
                     <div class="img1 image-anime reveal">
-                        <img src="assets/img/all-images/others/others-img11.png" alt="">
+                        <img src="assets/img/all-images/others/others-img11a.png" alt="">
                     </div>
                     <div class="img2 image-anime reveal">
-                        <img src="assets/img/all-images/others/others-img12.png" alt="">
+                        <img src="assets/img/all-images/others/others-img12a.png" alt="">
                     </div>
                     <div class="elements">
                         <img src="assets/img/elements/elements8.png" alt="">
@@ -953,7 +953,7 @@
       <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
         <div class="blog-boxarea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/blog/blog-img1.png" alt="">
+            <img src="assets/img/all-images/blog/blog-img1a.png" alt="">
           </div>
           <div class="content-area">
             <ul>
@@ -985,7 +985,7 @@
       <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
         <div class="blog-boxarea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/blog/blog-img2.png" alt="">
+            <img src="assets/img/all-images/blog/blog-img2a.png" alt="">
           </div>
           <div class="content-area">
             <ul>
@@ -1017,7 +1017,7 @@
       <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
         <div class="blog-boxarea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/blog/blog-img3.png" alt="">
+            <img src="assets/img/all-images/blog/blog-img3a.png" alt="">
           </div>
           <div class="content-area">
             <ul>

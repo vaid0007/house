@@ -100,7 +100,7 @@
             <div class="inner-heading header-heading">
                  <h1 class="fw-bold display-5 text-white lh-sm">About ShriJi Properties</h1>
                 <div class="space24"></div>
-                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="about">About ShriJi Properties</a></p>
+                <p><a href="./">Home <i class="fa-solid fa-angle-right"></i></a> <a href="about">About ShriJi Properties</a></p>
             </div>
         </div>
         <!-- <div class="col-lg-2"></div>

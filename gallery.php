@@ -98,7 +98,7 @@
             <div class="inner-heading header-heading">
                  <h1 class="fw-bold display-5 text-white lh-sm">Our Gallery</h1>
                 <div class="space24"></div>
-                <p><a href="index">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog"> Our Gallery</a></p>
+                <p><a href="./">Home <i class="fa-solid fa-angle-right"></i></a> <a href="blog"> Our Gallery</a></p>
             </div>
         </div>
         <div class="col-lg-2"></div>
