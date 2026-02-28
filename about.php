@@ -89,10 +89,10 @@
 <!--===== HERO AREA STARTS =======-->
 <div class="inner-main-hero-area">
     <div class="img1">
-      <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+      <img src="assets/img/all-images/hero/hero-img6a.png" alt="">
     </div>
     <div class="img2">
-      <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+      <img src="assets/img/all-images/hero/hero-img6a.png" alt="">
     </div>
     <div class="container">
       <div class="row">
@@ -128,7 +128,7 @@
                 <div class="property-images-area">
                     
                     <div class="img2 reveal image-anime">
-                        <img src="assets/img/all-images/property/property-img5.png" alt="">
+                        <img src="assets/img/all-images/property/property-img5a.png" alt="">
                     </div>
                     <div class="elements reveal image-anime">
                         <img src="assets/img/elements/elements9.png" alt="">
@@ -215,10 +215,10 @@
 
                 <div class="about-images">
                     <div class="img1 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img1.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3e.png" alt="">
                     </div>
                     <div class="img2 reveal image-anime">
-                        <img src="assets/img/all-images/about/about-img2.png" alt="">
+                        <img src="assets/img/all-images/about/about-img3b.png" alt="">
                     </div>
                     <div class="elements">
                         <img src="assets/img/elements/elements12.png" alt="">
@@ -459,7 +459,7 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
           <div class="apartment-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/apartment/apartment-img1.png" alt="">
+              <img src="assets/img/all-images/apartment/apartment-img1a.png" alt="">
             </div>
             <div class="content-area">
               <a href="apartments">Apartment Complex</a>
@@ -478,7 +478,7 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="900">
           <div class="apartment-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/apartment/apartment-img2.png" alt="">
+              <img src="assets/img/all-images/apartment/apartment-img2a.png" alt="">
             </div>
             <div class="content-area">
               <a href="apartments">Diamond Apartment</a>
@@ -498,7 +498,7 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
           <div class="apartment-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/apartment/apartment-img3.png" alt="">
+              <img src="assets/img/all-images/apartment/apartment-img3a.png" alt="">
             </div>
             <div class="content-area">
               <a href="apartments">Luxury Suite Villa</a>

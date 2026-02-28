@@ -87,10 +87,10 @@
 <!--===== HERO AREA STARTS =======-->
 <div class="inner-main-hero-area">
     <div class="img1">
-      <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+      <img src="assets/img/all-images/hero/hero-img6a.png" alt="">
     </div>
     <div class="img2">
-      <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+      <img src="assets/img/all-images/hero/hero-img.png" alt="">
     </div>
     <div class="container">
       <div class="row">
@@ -102,7 +102,7 @@
             </div>
         </div>
         <div class="col-lg-2"></div>
-        <div class="col-lg-4">
+        <!-- <div class="col-lg-4">
           <div class="auhtor-box">
             <div class="others-box">
               <div class="img3">
@@ -116,7 +116,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
